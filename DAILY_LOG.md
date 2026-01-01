@@ -1,0 +1,1096 @@
+- 2026-01-01T20:37:15: chore: update dependencies and build scripts
+- 2026-01-02T14:53:21: docs: add setup instructions to README
+- 2026-01-03T16:00:40: feat: add interactive practice questions to interview arena
+- 2026-01-03T18:42:05: perf: dynamic import for canvas whiteboard module
+- 2026-01-04T16:16:53: perf: dynamic import for canvas whiteboard module
+- 2026-01-04T20:05:07: style: refine dark mode contrast ratios and glowing borders
+- 2026-01-04T16:14:07: chore: update dependencies and build scripts
+- 2026-01-04T14:09:00: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-01-04T16:27:09: feat: add interactive practice questions to interview arena
+- 2026-01-04T17:00:57: chore: update dependencies and build scripts
+- 2026-01-05T08:57:44: chore: update dependencies and build scripts
+- 2026-01-05T11:05:58: refactor: optimize Framer Motion layout transitions
+- 2026-01-05T19:31:48: feat: update application status tracker pipeline
+- 2026-01-05T22:11:11: refactor: extract reusable card components into UI library
+- 2026-01-05T22:20:27: perf: reduce bundle size and optimize asset loading
+- 2026-01-05T09:57:27: feat: update application status tracker pipeline
+- 2026-01-05T16:04:32: fix: mobile navigation drawer backdrop filter
+- 2026-01-05T22:01:45: docs: add setup instructions to README
+- 2026-01-05T21:32:36: refactor: optimize Framer Motion layout transitions
+- 2026-01-05T08:58:17: style: polish Playfair Display heading typography scales
+- 2026-01-05T08:15:31: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-01-05T11:43:40: feat: add TimesJobs employer badge grid
+- 2026-01-05T20:49:50: chore: update dependencies and build scripts
+- 2026-01-05T14:27:22: feat: update application status tracker pipeline
+- 2026-01-05T16:25:13: perf: reduce bundle size and optimize asset loading
+- 2026-01-05T21:00:51: fix: mobile navigation drawer backdrop filter
+- 2026-01-05T11:36:28: docs: add setup instructions to README
+- 2026-01-05T10:08:49: perf: dynamic import for canvas whiteboard module
+- 2026-01-05T13:44:14: test: verify analytics API response contract
+- 2026-01-06T12:33:41: feat: add interactive practice questions to interview arena
+- 2026-01-07T20:44:36: docs: update API documentation and route schemas
+- 2026-01-07T09:53:32: refactor: extract reusable card components into UI library
+- 2026-01-07T10:39:55: refactor: optimize Framer Motion layout transitions
+- 2026-01-07T18:56:31: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-01-08T10:33:39: refactor: optimize Framer Motion layout transitions
+- 2026-01-08T16:36:26: feat: add interactive practice questions to interview arena
+- 2026-01-08T11:25:04: perf: dynamic import for canvas whiteboard module
+- 2026-01-08T10:05:52: perf: dynamic import for canvas whiteboard module
+- 2026-01-08T21:23:51: chore: update dependencies and build scripts
+- 2026-01-08T16:08:48: feat: update application status tracker pipeline
+- 2026-01-08T17:37:20: refactor: extract reusable card components into UI library
+- 2026-01-08T16:25:16: docs: add setup instructions to README
+- 2026-01-08T18:25:18: fix: prevent state reset during tab switching
+- 2026-01-08T09:58:00: refactor: optimize Framer Motion layout transitions
+- 2026-01-08T14:51:04: chore: update dependencies and build scripts
+- 2026-01-08T14:32:11: perf: reduce bundle size and optimize asset loading
+- 2026-01-08T16:23:01: docs: add setup instructions to README
+- 2026-01-09T22:41:38: test: verify analytics API response contract
+- 2026-01-09T13:11:20: feat: add interactive practice questions to interview arena
+- 2026-01-10T09:21:19: fix: mobile navigation drawer backdrop filter
+- 2026-01-10T17:38:44: feat: add TimesJobs employer badge grid
+- 2026-01-12T16:19:07: style: refine dark mode contrast ratios and glowing borders
+- 2026-01-13T17:57:37: test: verify analytics API response contract
+- 2026-01-13T22:43:09: test: verify analytics API response contract
+- 2026-01-14T09:51:49: chore: update dependencies and build scripts
+- 2026-01-14T22:56:57: perf: reduce bundle size and optimize asset loading
+- 2026-01-14T08:16:51: docs: update API documentation and route schemas
+- 2026-01-14T14:32:36: perf: dynamic import for canvas whiteboard module
+- 2026-01-14T18:22:58: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-01-14T09:27:24: feat: update application status tracker pipeline
+- 2026-01-14T17:16:48: style: polish Playfair Display heading typography scales
+- 2026-01-15T10:03:09: style: refine dark mode contrast ratios and glowing borders
+- 2026-01-15T21:44:47: chore: update dependencies and build scripts
+- 2026-01-16T18:20:51: docs: add setup instructions to README
+- 2026-01-16T12:18:59: perf: reduce bundle size and optimize asset loading
+- 2026-01-16T13:59:43: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-01-16T08:17:43: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-01-16T19:28:42: docs: update API documentation and route schemas
+- 2026-01-16T10:42:16: perf: reduce bundle size and optimize asset loading
+- 2026-01-16T10:14:19: style: refine dark mode contrast ratios and glowing borders
+- 2026-01-16T13:39:59: perf: dynamic import for canvas whiteboard module
+- 2026-01-16T21:58:36: docs: update API documentation and route schemas
+- 2026-01-16T20:51:48: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-01-16T10:04:06: test: verify analytics API response contract
+- 2026-01-17T20:34:25: fix: prevent state reset during tab switching
+- 2026-01-17T09:51:24: style: refine dark mode contrast ratios and glowing borders
+- 2026-01-17T15:32:07: feat: add TimesJobs employer badge grid
+- 2026-01-17T22:27:32: perf: dynamic import for canvas whiteboard module
+- 2026-01-17T18:19:00: feat: add interactive practice questions to interview arena
+- 2026-01-17T18:37:09: refactor: extract reusable card components into UI library
+- 2026-01-17T19:01:00: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-01-17T12:54:18: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-01-17T14:51:30: perf: dynamic import for canvas whiteboard module
+- 2026-01-17T18:11:43: fix: mobile navigation drawer backdrop filter
+- 2026-01-17T11:50:44: style: polish Playfair Display heading typography scales
+- 2026-01-17T19:46:47: feat: update application status tracker pipeline
+- 2026-01-17T18:16:17: perf: dynamic import for canvas whiteboard module
+- 2026-01-19T22:06:24: fix: prevent state reset during tab switching
+- 2026-01-19T20:47:58: perf: dynamic import for canvas whiteboard module
+- 2026-01-22T08:00:19: refactor: extract reusable card components into UI library
+- 2026-01-23T22:31:37: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-01-23T13:59:43: refactor: extract reusable card components into UI library
+- 2026-01-23T15:28:33: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-01-23T09:35:21: feat: update application status tracker pipeline
+- 2026-01-24T17:19:14: fix: prevent state reset during tab switching
+- 2026-01-24T22:43:24: fix: prevent state reset during tab switching
+- 2026-01-24T19:08:09: docs: update API documentation and route schemas
+- 2026-01-24T13:30:36: refactor: optimize Framer Motion layout transitions
+- 2026-01-24T11:45:28: style: polish Playfair Display heading typography scales
+- 2026-01-24T13:39:45: docs: update API documentation and route schemas
+- 2026-01-24T19:34:26: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-01-24T22:06:40: feat: add TimesJobs employer badge grid
+- 2026-01-24T08:58:31: refactor: optimize Framer Motion layout transitions
+- 2026-01-24T14:38:51: docs: update API documentation and route schemas
+- 2026-01-25T17:03:23: chore: update dependencies and build scripts
+- 2026-01-26T10:38:47: docs: add setup instructions to README
+- 2026-01-26T15:44:46: style: refine dark mode contrast ratios and glowing borders
+- 2026-01-27T08:07:14: perf: dynamic import for canvas whiteboard module
+- 2026-01-27T22:16:44: feat: add TimesJobs employer badge grid
+- 2026-01-28T15:46:30: feat: add TimesJobs employer badge grid
+- 2026-01-28T20:30:16: perf: dynamic import for canvas whiteboard module
+- 2026-01-28T09:43:04: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-01-28T10:45:19: feat: update application status tracker pipeline
+- 2026-01-28T18:02:01: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-01-29T14:34:54: refactor: optimize Framer Motion layout transitions
+- 2026-01-29T15:21:07: feat: update application status tracker pipeline
+- 2026-01-29T10:25:00: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-01-29T15:26:34: feat: add interactive practice questions to interview arena
+- 2026-01-29T21:24:35: refactor: extract reusable card components into UI library
+- 2026-01-29T10:30:32: style: polish Playfair Display heading typography scales
+- 2026-01-29T17:25:19: feat: add TimesJobs employer badge grid
+- 2026-01-29T12:04:31: feat: add interactive practice questions to interview arena
+- 2026-01-29T10:16:38: refactor: extract reusable card components into UI library
+- 2026-01-29T18:03:11: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-01-29T21:44:02: fix: prevent state reset during tab switching
+- 2026-01-29T20:02:12: style: polish Playfair Display heading typography scales
+- 2026-01-29T14:12:01: perf: reduce bundle size and optimize asset loading
+- 2026-01-30T17:25:21: feat: add interactive practice questions to interview arena
+- 2026-01-30T12:59:07: style: refine dark mode contrast ratios and glowing borders
+- 2026-01-30T16:55:15: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-01-30T13:50:13: docs: update API documentation and route schemas
+- 2026-01-31T19:43:26: feat: update application status tracker pipeline
+- 2026-01-31T17:00:47: docs: update API documentation and route schemas
+- 2026-01-31T09:17:15: docs: update API documentation and route schemas
+- 2026-01-31T08:30:37: refactor: optimize Framer Motion layout transitions
+- 2026-02-01T21:46:31: refactor: optimize Framer Motion layout transitions
+- 2026-02-02T08:00:43: docs: add setup instructions to README
+- 2026-02-02T15:43:15: fix: mobile navigation drawer backdrop filter
+- 2026-02-02T20:00:45: feat: add interactive practice questions to interview arena
+- 2026-02-02T13:00:34: docs: update API documentation and route schemas
+- 2026-02-02T11:53:52: docs: add setup instructions to README
+- 2026-02-02T11:50:59: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-02-02T15:02:07: feat: add TimesJobs employer badge grid
+- 2026-02-02T09:46:14: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-02-02T11:08:17: fix: mobile navigation drawer backdrop filter
+- 2026-02-02T15:21:21: chore: update dependencies and build scripts
+- 2026-02-03T16:28:10: fix: prevent state reset during tab switching
+- 2026-02-03T08:24:28: style: polish Playfair Display heading typography scales
+- 2026-02-04T19:50:08: refactor: extract reusable card components into UI library
+- 2026-02-04T18:17:14: refactor: optimize Framer Motion layout transitions
+- 2026-02-05T08:00:59: feat: add interactive practice questions to interview arena
+- 2026-02-05T10:24:05: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-02-05T21:35:19: perf: reduce bundle size and optimize asset loading
+- 2026-02-05T14:21:51: refactor: extract reusable card components into UI library
+- 2026-02-05T10:37:41: style: polish Playfair Display heading typography scales
+- 2026-02-05T16:27:16: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-02-05T15:12:25: refactor: extract reusable card components into UI library
+- 2026-02-06T13:03:40: feat: add TimesJobs employer badge grid
+- 2026-02-06T18:06:11: docs: add setup instructions to README
+- 2026-02-06T17:09:02: docs: update API documentation and route schemas
+- 2026-02-06T18:39:39: docs: update API documentation and route schemas
+- 2026-02-06T15:21:00: refactor: optimize Framer Motion layout transitions
+- 2026-02-08T17:12:52: feat: update application status tracker pipeline
+- 2026-02-08T20:06:43: refactor: extract reusable card components into UI library
+- 2026-02-08T09:18:20: perf: reduce bundle size and optimize asset loading
+- 2026-02-08T19:13:52: feat: add interactive practice questions to interview arena
+- 2026-02-08T21:45:53: docs: add setup instructions to README
+- 2026-02-08T13:50:51: fix: prevent state reset during tab switching
+- 2026-02-09T18:26:11: fix: mobile navigation drawer backdrop filter
+- 2026-02-09T12:20:38: perf: dynamic import for canvas whiteboard module
+- 2026-02-09T21:46:15: refactor: extract reusable card components into UI library
+- 2026-02-09T22:29:44: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-02-09T14:51:23: feat: add interactive practice questions to interview arena
+- 2026-02-09T15:37:59: fix: mobile navigation drawer backdrop filter
+- 2026-02-09T16:42:34: refactor: extract reusable card components into UI library
+- 2026-02-09T22:50:03: docs: update API documentation and route schemas
+- 2026-02-09T13:41:34: test: verify analytics API response contract
+- 2026-02-09T15:54:32: fix: prevent state reset during tab switching
+- 2026-02-09T08:13:18: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-02-09T21:55:30: refactor: optimize Framer Motion layout transitions
+- 2026-02-09T13:56:12: feat: update application status tracker pipeline
+- 2026-02-10T19:04:21: fix: mobile navigation drawer backdrop filter
+- 2026-02-10T16:51:18: refactor: extract reusable card components into UI library
+- 2026-02-10T20:21:02: fix: prevent state reset during tab switching
+- 2026-02-10T17:13:34: feat: add TimesJobs employer badge grid
+- 2026-02-10T21:08:53: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-02-10T18:46:16: feat: update application status tracker pipeline
+- 2026-02-10T16:14:55: style: polish Playfair Display heading typography scales
+- 2026-02-10T22:57:56: fix: prevent state reset during tab switching
+- 2026-02-10T22:41:29: refactor: extract reusable card components into UI library
+- 2026-02-10T08:37:23: fix: prevent state reset during tab switching
+- 2026-02-11T17:02:27: docs: update API documentation and route schemas
+- 2026-02-11T13:26:01: style: polish Playfair Display heading typography scales
+- 2026-02-11T16:33:49: chore: update dependencies and build scripts
+- 2026-02-11T20:13:05: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-02-11T13:07:08: style: polish Playfair Display heading typography scales
+- 2026-02-11T15:49:35: docs: update API documentation and route schemas
+- 2026-02-11T18:34:14: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-02-11T19:45:35: perf: reduce bundle size and optimize asset loading
+- 2026-02-11T22:57:23: fix: prevent state reset during tab switching
+- 2026-02-12T11:10:07: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-02-12T14:31:13: fix: mobile navigation drawer backdrop filter
+- 2026-02-12T12:21:11: feat: add TimesJobs employer badge grid
+- 2026-02-12T14:46:06: fix: prevent state reset during tab switching
+- 2026-02-13T13:14:34: chore: update dependencies and build scripts
+- 2026-02-14T10:58:49: refactor: extract reusable card components into UI library
+- 2026-02-14T17:37:07: fix: prevent state reset during tab switching
+- 2026-02-14T22:18:21: refactor: extract reusable card components into UI library
+- 2026-02-14T12:05:44: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-02-14T14:44:20: style: refine dark mode contrast ratios and glowing borders
+- 2026-02-14T11:46:06: refactor: extract reusable card components into UI library
+- 2026-02-14T12:25:30: refactor: extract reusable card components into UI library
+- 2026-02-14T21:53:50: fix: prevent state reset during tab switching
+- 2026-02-14T09:57:14: feat: update application status tracker pipeline
+- 2026-02-14T08:12:58: feat: update application status tracker pipeline
+- 2026-02-14T17:11:50: chore: update dependencies and build scripts
+- 2026-02-14T22:24:40: test: verify analytics API response contract
+- 2026-02-14T11:02:34: chore: update dependencies and build scripts
+- 2026-02-14T19:07:45: feat: update application status tracker pipeline
+- 2026-02-14T09:12:08: chore: update dependencies and build scripts
+- 2026-02-14T18:37:58: style: refine dark mode contrast ratios and glowing borders
+- 2026-02-14T17:28:09: docs: update API documentation and route schemas
+- 2026-02-14T22:21:22: refactor: extract reusable card components into UI library
+- 2026-02-15T17:34:31: style: refine dark mode contrast ratios and glowing borders
+- 2026-02-15T21:55:18: fix: prevent state reset during tab switching
+- 2026-02-15T19:34:22: feat: update application status tracker pipeline
+- 2026-02-15T13:15:03: chore: update dependencies and build scripts
+- 2026-02-15T22:34:23: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-02-16T18:36:59: fix: mobile navigation drawer backdrop filter
+- 2026-02-16T08:10:17: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-02-16T08:10:21: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-02-16T21:41:26: chore: update dependencies and build scripts
+- 2026-02-16T22:14:16: style: polish Playfair Display heading typography scales
+- 2026-02-16T14:28:42: perf: reduce bundle size and optimize asset loading
+- 2026-02-16T19:59:43: fix: mobile navigation drawer backdrop filter
+- 2026-02-16T22:58:01: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-02-16T14:18:13: feat: add TimesJobs employer badge grid
+- 2026-02-16T19:18:14: docs: add setup instructions to README
+- 2026-02-17T11:11:19: perf: dynamic import for canvas whiteboard module
+- 2026-02-17T20:27:02: feat: add TimesJobs employer badge grid
+- 2026-02-17T16:34:04: docs: update API documentation and route schemas
+- 2026-02-17T19:04:54: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-02-17T16:09:04: fix: prevent state reset during tab switching
+- 2026-02-17T16:49:56: fix: prevent state reset during tab switching
+- 2026-02-17T13:54:00: feat: add interactive practice questions to interview arena
+- 2026-02-17T20:46:46: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-02-17T21:27:45: docs: update API documentation and route schemas
+- 2026-02-17T08:56:45: docs: add setup instructions to README
+- 2026-02-17T18:55:05: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-02-17T10:10:39: chore: update dependencies and build scripts
+- 2026-02-17T08:33:33: perf: dynamic import for canvas whiteboard module
+- 2026-02-17T17:35:09: feat: add interactive practice questions to interview arena
+- 2026-02-17T11:53:59: fix: prevent state reset during tab switching
+- 2026-02-17T17:30:47: docs: add setup instructions to README
+- 2026-02-17T15:29:26: fix: prevent state reset during tab switching
+- 2026-02-17T19:06:05: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-02-18T09:28:49: perf: reduce bundle size and optimize asset loading
+- 2026-02-19T13:27:08: refactor: extract reusable card components into UI library
+- 2026-02-19T18:45:31: fix: mobile navigation drawer backdrop filter
+- 2026-02-19T21:48:55: refactor: optimize Framer Motion layout transitions
+- 2026-02-19T22:48:58: perf: reduce bundle size and optimize asset loading
+- 2026-02-19T09:03:08: feat: update application status tracker pipeline
+- 2026-02-19T14:26:09: refactor: optimize Framer Motion layout transitions
+- 2026-02-19T14:55:30: test: verify analytics API response contract
+- 2026-02-19T09:22:50: style: refine dark mode contrast ratios and glowing borders
+- 2026-02-19T21:09:01: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-02-20T17:19:17: docs: add setup instructions to README
+- 2026-02-20T13:10:48: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-02-20T19:02:05: feat: update application status tracker pipeline
+- 2026-02-20T09:45:06: test: verify analytics API response contract
+- 2026-02-20T19:29:45: fix: prevent state reset during tab switching
+- 2026-02-20T13:28:09: refactor: optimize Framer Motion layout transitions
+- 2026-02-21T09:04:09: style: polish Playfair Display heading typography scales
+- 2026-02-21T19:22:40: fix: mobile navigation drawer backdrop filter
+- 2026-02-21T15:20:06: feat: add interactive practice questions to interview arena
+- 2026-02-21T08:29:01: chore: update dependencies and build scripts
+- 2026-02-21T09:37:55: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-02-22T22:32:08: chore: update dependencies and build scripts
+- 2026-02-22T22:36:17: docs: add setup instructions to README
+- 2026-02-23T17:42:55: chore: update dependencies and build scripts
+- 2026-02-23T20:38:05: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-02-23T19:47:06: refactor: extract reusable card components into UI library
+- 2026-02-23T17:21:38: chore: update dependencies and build scripts
+- 2026-02-23T21:44:56: feat: update application status tracker pipeline
+- 2026-02-23T16:17:03: chore: update dependencies and build scripts
+- 2026-02-23T10:50:31: fix: mobile navigation drawer backdrop filter
+- 2026-02-23T13:58:36: style: refine dark mode contrast ratios and glowing borders
+- 2026-02-23T22:06:23: fix: prevent state reset during tab switching
+- 2026-02-23T22:00:16: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-02-24T14:58:36: docs: update API documentation and route schemas
+- 2026-02-24T19:03:35: style: polish Playfair Display heading typography scales
+- 2026-02-24T19:17:07: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-02-24T17:43:36: feat: add TimesJobs employer badge grid
+- 2026-02-24T13:29:49: test: verify analytics API response contract
+- 2026-02-24T10:59:52: perf: dynamic import for canvas whiteboard module
+- 2026-02-24T20:51:20: refactor: extract reusable card components into UI library
+- 2026-02-24T08:01:54: fix: mobile navigation drawer backdrop filter
+- 2026-02-24T10:02:47: feat: add interactive practice questions to interview arena
+- 2026-02-24T20:32:08: feat: add TimesJobs employer badge grid
+- 2026-02-24T08:48:58: feat: add TimesJobs employer badge grid
+- 2026-02-25T18:40:38: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-02-25T22:25:49: refactor: extract reusable card components into UI library
+- 2026-02-26T16:15:36: chore: update dependencies and build scripts
+- 2026-02-27T22:12:42: test: verify analytics API response contract
+- 2026-03-01T13:46:45: style: refine dark mode contrast ratios and glowing borders
+- 2026-03-01T15:48:52: fix: mobile navigation drawer backdrop filter
+- 2026-03-01T17:45:32: feat: add TimesJobs employer badge grid
+- 2026-03-01T12:33:50: refactor: extract reusable card components into UI library
+- 2026-03-01T08:42:57: feat: add TimesJobs employer badge grid
+- 2026-03-02T16:46:47: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-03-02T18:21:08: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-03-02T18:51:01: docs: update API documentation and route schemas
+- 2026-03-02T14:20:44: style: refine dark mode contrast ratios and glowing borders
+- 2026-03-02T14:13:36: docs: add setup instructions to README
+- 2026-03-02T17:22:58: perf: reduce bundle size and optimize asset loading
+- 2026-03-02T11:28:57: chore: update dependencies and build scripts
+- 2026-03-02T11:11:50: perf: reduce bundle size and optimize asset loading
+- 2026-03-02T18:14:25: fix: prevent state reset during tab switching
+- 2026-03-02T20:48:25: chore: update dependencies and build scripts
+- 2026-03-03T14:59:34: perf: dynamic import for canvas whiteboard module
+- 2026-03-03T20:52:06: fix: mobile navigation drawer backdrop filter
+- 2026-03-03T10:47:28: style: polish Playfair Display heading typography scales
+- 2026-03-03T20:54:49: style: refine dark mode contrast ratios and glowing borders
+- 2026-03-03T15:59:45: docs: add setup instructions to README
+- 2026-03-03T12:11:09: refactor: extract reusable card components into UI library
+- 2026-03-03T12:06:55: perf: dynamic import for canvas whiteboard module
+- 2026-03-03T19:38:42: style: refine dark mode contrast ratios and glowing borders
+- 2026-03-03T21:21:29: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-03-03T08:23:19: perf: dynamic import for canvas whiteboard module
+- 2026-03-03T12:28:01: refactor: extract reusable card components into UI library
+- 2026-03-03T17:47:44: refactor: optimize Framer Motion layout transitions
+- 2026-03-04T15:26:53: perf: dynamic import for canvas whiteboard module
+- 2026-03-04T12:02:42: style: polish Playfair Display heading typography scales
+- 2026-03-04T13:42:55: test: verify analytics API response contract
+- 2026-03-04T21:05:17: fix: prevent state reset during tab switching
+- 2026-03-04T10:00:34: docs: add setup instructions to README
+- 2026-03-04T21:59:04: feat: update application status tracker pipeline
+- 2026-03-04T14:19:32: feat: update application status tracker pipeline
+- 2026-03-04T13:09:03: feat: update application status tracker pipeline
+- 2026-03-04T12:57:26: fix: prevent state reset during tab switching
+- 2026-03-04T11:15:54: chore: update dependencies and build scripts
+- 2026-03-05T16:08:43: perf: reduce bundle size and optimize asset loading
+- 2026-03-05T10:27:51: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-03-05T21:20:54: refactor: extract reusable card components into UI library
+- 2026-03-05T15:21:39: fix: mobile navigation drawer backdrop filter
+- 2026-03-05T16:59:09: style: refine dark mode contrast ratios and glowing borders
+- 2026-03-05T17:39:29: docs: add setup instructions to README
+- 2026-03-05T22:25:13: fix: prevent state reset during tab switching
+- 2026-03-05T16:50:05: chore: update dependencies and build scripts
+- 2026-03-05T17:37:55: style: refine dark mode contrast ratios and glowing borders
+- 2026-03-05T17:36:38: fix: mobile navigation drawer backdrop filter
+- 2026-03-05T20:34:14: docs: update API documentation and route schemas
+- 2026-03-05T18:50:34: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-03-05T17:46:58: refactor: extract reusable card components into UI library
+- 2026-03-05T20:53:59: fix: prevent state reset during tab switching
+- 2026-03-05T18:45:15: chore: update dependencies and build scripts
+- 2026-03-05T14:00:00: fix: mobile navigation drawer backdrop filter
+- 2026-03-05T20:32:24: refactor: optimize Framer Motion layout transitions
+- 2026-03-05T19:34:13: test: verify analytics API response contract
+- 2026-03-06T18:10:15: docs: update API documentation and route schemas
+- 2026-03-06T16:10:53: refactor: optimize Framer Motion layout transitions
+- 2026-03-06T18:34:39: test: verify analytics API response contract
+- 2026-03-06T11:54:58: feat: update application status tracker pipeline
+- 2026-03-06T17:21:23: perf: reduce bundle size and optimize asset loading
+- 2026-03-06T12:08:01: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-03-06T09:26:17: refactor: optimize Framer Motion layout transitions
+- 2026-03-07T10:18:16: test: verify analytics API response contract
+- 2026-03-07T22:42:03: style: refine dark mode contrast ratios and glowing borders
+- 2026-03-07T17:34:03: feat: add interactive practice questions to interview arena
+- 2026-03-07T12:40:03: refactor: extract reusable card components into UI library
+- 2026-03-08T09:00:59: feat: add interactive practice questions to interview arena
+- 2026-03-08T12:15:37: feat: add TimesJobs employer badge grid
+- 2026-03-08T17:43:39: feat: add TimesJobs employer badge grid
+- 2026-03-08T15:37:44: refactor: optimize Framer Motion layout transitions
+- 2026-03-08T16:36:43: perf: reduce bundle size and optimize asset loading
+- 2026-03-08T09:10:10: feat: add TimesJobs employer badge grid
+- 2026-03-08T20:09:00: feat: update application status tracker pipeline
+- 2026-03-08T12:51:17: docs: add setup instructions to README
+- 2026-03-08T16:35:09: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-03-08T11:16:20: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-03-08T15:12:20: feat: update application status tracker pipeline
+- 2026-03-08T08:33:23: feat: update application status tracker pipeline
+- 2026-03-08T18:37:04: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-03-08T08:31:44: docs: update API documentation and route schemas
+- 2026-03-08T13:46:14: refactor: extract reusable card components into UI library
+- 2026-03-08T11:38:26: feat: add TimesJobs employer badge grid
+- 2026-03-09T17:26:03: refactor: extract reusable card components into UI library
+- 2026-03-09T09:06:50: test: verify analytics API response contract
+- 2026-03-09T08:56:34: refactor: optimize Framer Motion layout transitions
+- 2026-03-09T22:06:25: refactor: optimize Framer Motion layout transitions
+- 2026-03-09T22:38:42: refactor: extract reusable card components into UI library
+- 2026-03-09T12:57:51: feat: update application status tracker pipeline
+- 2026-03-09T08:35:24: feat: update application status tracker pipeline
+- 2026-03-09T08:12:19: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-03-09T08:36:36: docs: update API documentation and route schemas
+- 2026-03-09T20:58:40: feat: add interactive practice questions to interview arena
+- 2026-03-09T13:04:29: chore: update dependencies and build scripts
+- 2026-03-09T22:46:38: perf: reduce bundle size and optimize asset loading
+- 2026-03-10T14:06:47: perf: reduce bundle size and optimize asset loading
+- 2026-03-10T22:25:02: style: refine dark mode contrast ratios and glowing borders
+- 2026-03-10T09:47:39: feat: add interactive practice questions to interview arena
+- 2026-03-10T11:47:08: feat: add interactive practice questions to interview arena
+- 2026-03-10T15:18:26: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-03-10T09:07:21: fix: mobile navigation drawer backdrop filter
+- 2026-03-11T19:21:26: perf: reduce bundle size and optimize asset loading
+- 2026-03-11T08:47:10: docs: update API documentation and route schemas
+- 2026-03-11T22:56:07: perf: dynamic import for canvas whiteboard module
+- 2026-03-11T13:18:09: docs: add setup instructions to README
+- 2026-03-11T11:41:59: fix: prevent state reset during tab switching
+- 2026-03-12T11:54:53: perf: reduce bundle size and optimize asset loading
+- 2026-03-12T13:12:49: style: refine dark mode contrast ratios and glowing borders
+- 2026-03-12T16:42:25: fix: mobile navigation drawer backdrop filter
+- 2026-03-12T21:19:35: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-03-12T22:54:13: docs: update API documentation and route schemas
+- 2026-03-12T12:37:56: style: polish Playfair Display heading typography scales
+- 2026-03-12T16:47:58: chore: update dependencies and build scripts
+- 2026-03-14T17:32:15: docs: update API documentation and route schemas
+- 2026-03-14T12:40:08: perf: reduce bundle size and optimize asset loading
+- 2026-03-14T08:25:59: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-03-14T12:49:23: docs: add setup instructions to README
+- 2026-03-14T14:44:02: perf: reduce bundle size and optimize asset loading
+- 2026-03-14T08:45:31: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-03-14T21:26:36: docs: add setup instructions to README
+- 2026-03-14T13:49:02: feat: update application status tracker pipeline
+- 2026-03-14T20:11:02: style: refine dark mode contrast ratios and glowing borders
+- 2026-03-14T14:27:38: feat: add interactive practice questions to interview arena
+- 2026-03-14T19:29:35: feat: add interactive practice questions to interview arena
+- 2026-03-14T18:38:34: fix: mobile navigation drawer backdrop filter
+- 2026-03-15T11:00:47: fix: prevent state reset during tab switching
+- 2026-03-16T15:34:14: style: polish Playfair Display heading typography scales
+- 2026-03-16T16:49:47: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-03-16T08:04:40: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-03-16T09:21:30: feat: add TimesJobs employer badge grid
+- 2026-03-16T16:26:17: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-03-16T14:00:07: docs: add setup instructions to README
+- 2026-03-16T19:32:08: style: refine dark mode contrast ratios and glowing borders
+- 2026-03-17T17:58:21: fix: prevent state reset during tab switching
+- 2026-03-17T22:41:35: style: refine dark mode contrast ratios and glowing borders
+- 2026-03-17T09:09:02: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-03-17T15:55:35: feat: add interactive practice questions to interview arena
+- 2026-03-17T17:12:24: feat: update application status tracker pipeline
+- 2026-03-18T09:08:20: feat: add TimesJobs employer badge grid
+- 2026-03-18T21:03:29: refactor: optimize Framer Motion layout transitions
+- 2026-03-18T15:28:55: style: refine dark mode contrast ratios and glowing borders
+- 2026-03-18T09:42:35: style: polish Playfair Display heading typography scales
+- 2026-03-18T14:36:55: style: refine dark mode contrast ratios and glowing borders
+- 2026-03-19T18:35:26: style: polish Playfair Display heading typography scales
+- 2026-03-19T12:43:35: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-03-19T14:29:04: refactor: extract reusable card components into UI library
+- 2026-03-19T18:46:24: chore: update dependencies and build scripts
+- 2026-03-19T18:16:27: feat: add interactive practice questions to interview arena
+- 2026-03-19T13:34:00: feat: update application status tracker pipeline
+- 2026-03-19T17:30:43: perf: dynamic import for canvas whiteboard module
+- 2026-03-19T14:13:01: style: refine dark mode contrast ratios and glowing borders
+- 2026-03-19T10:47:50: perf: dynamic import for canvas whiteboard module
+- 2026-03-19T11:19:45: feat: add interactive practice questions to interview arena
+- 2026-03-19T13:08:45: style: refine dark mode contrast ratios and glowing borders
+- 2026-03-19T15:49:40: docs: update API documentation and route schemas
+- 2026-03-19T21:12:52: test: verify analytics API response contract
+- 2026-03-20T21:51:22: refactor: extract reusable card components into UI library
+- 2026-03-20T14:32:30: refactor: optimize Framer Motion layout transitions
+- 2026-03-20T11:35:28: fix: prevent state reset during tab switching
+- 2026-03-20T17:30:59: feat: update application status tracker pipeline
+- 2026-03-20T17:14:16: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-03-20T16:47:16: docs: add setup instructions to README
+- 2026-03-20T20:37:55: feat: update application status tracker pipeline
+- 2026-03-21T19:29:47: perf: dynamic import for canvas whiteboard module
+- 2026-03-21T21:16:02: perf: reduce bundle size and optimize asset loading
+- 2026-03-21T12:36:25: docs: add setup instructions to README
+- 2026-03-21T12:15:15: docs: add setup instructions to README
+- 2026-03-21T20:05:39: docs: add setup instructions to README
+- 2026-03-22T11:57:12: fix: prevent state reset during tab switching
+- 2026-03-22T21:57:28: perf: dynamic import for canvas whiteboard module
+- 2026-03-23T15:52:16: chore: update dependencies and build scripts
+- 2026-03-24T09:16:51: feat: add TimesJobs employer badge grid
+- 2026-03-24T20:11:13: feat: add TimesJobs employer badge grid
+- 2026-03-24T08:20:31: chore: update dependencies and build scripts
+- 2026-03-24T16:44:21: feat: add TimesJobs employer badge grid
+- 2026-03-24T11:22:25: feat: add TimesJobs employer badge grid
+- 2026-03-24T18:27:55: fix: prevent state reset during tab switching
+- 2026-03-24T13:45:14: feat: update application status tracker pipeline
+- 2026-03-24T19:50:31: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-03-24T22:31:12: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-03-27T22:01:42: style: polish Playfair Display heading typography scales
+- 2026-03-27T11:11:33: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-03-27T20:00:09: refactor: extract reusable card components into UI library
+- 2026-03-27T09:50:50: perf: dynamic import for canvas whiteboard module
+- 2026-03-27T20:53:45: feat: add TimesJobs employer badge grid
+- 2026-03-27T15:57:31: perf: dynamic import for canvas whiteboard module
+- 2026-03-27T14:30:37: docs: add setup instructions to README
+- 2026-03-27T16:48:24: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-03-27T14:18:45: perf: reduce bundle size and optimize asset loading
+- 2026-03-28T08:32:13: chore: update dependencies and build scripts
+- 2026-03-29T19:21:04: docs: add setup instructions to README
+- 2026-03-29T15:14:04: docs: update API documentation and route schemas
+- 2026-03-29T08:06:25: feat: add interactive practice questions to interview arena
+- 2026-03-29T09:59:25: feat: update application status tracker pipeline
+- 2026-03-29T18:01:50: perf: dynamic import for canvas whiteboard module
+- 2026-03-29T19:53:59: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-03-29T09:49:01: refactor: extract reusable card components into UI library
+- 2026-03-30T11:04:31: chore: update dependencies and build scripts
+- 2026-04-01T13:49:06: feat: add interactive practice questions to interview arena
+- 2026-04-01T17:21:16: feat: add TimesJobs employer badge grid
+- 2026-04-01T08:12:31: feat: add interactive practice questions to interview arena
+- 2026-04-01T22:18:31: style: polish Playfair Display heading typography scales
+- 2026-04-01T17:58:19: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-04-01T21:37:58: fix: prevent state reset during tab switching
+- 2026-04-02T11:07:37: feat: add TimesJobs employer badge grid
+- 2026-04-02T21:48:33: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-04-02T14:14:24: refactor: extract reusable card components into UI library
+- 2026-04-02T13:01:06: refactor: optimize Framer Motion layout transitions
+- 2026-04-02T14:17:33: feat: add TimesJobs employer badge grid
+- 2026-04-02T19:56:01: style: polish Playfair Display heading typography scales
+- 2026-04-02T09:45:27: feat: add TimesJobs employer badge grid
+- 2026-04-02T10:46:12: feat: update application status tracker pipeline
+- 2026-04-02T13:28:46: feat: add interactive practice questions to interview arena
+- 2026-04-02T08:30:10: refactor: optimize Framer Motion layout transitions
+- 2026-04-02T13:51:03: docs: add setup instructions to README
+- 2026-04-03T15:10:24: fix: prevent state reset during tab switching
+- 2026-04-03T13:34:02: docs: update API documentation and route schemas
+- 2026-04-04T12:48:46: docs: update API documentation and route schemas
+- 2026-04-07T21:02:22: fix: mobile navigation drawer backdrop filter
+- 2026-04-07T08:16:07: fix: mobile navigation drawer backdrop filter
+- 2026-04-07T08:51:28: style: refine dark mode contrast ratios and glowing borders
+- 2026-04-07T17:29:16: refactor: extract reusable card components into UI library
+- 2026-04-07T12:04:44: test: verify analytics API response contract
+- 2026-04-07T11:44:51: docs: update API documentation and route schemas
+- 2026-04-07T12:20:22: chore: update dependencies and build scripts
+- 2026-04-07T10:20:20: refactor: optimize Framer Motion layout transitions
+- 2026-04-07T20:47:10: chore: update dependencies and build scripts
+- 2026-04-07T12:31:01: style: polish Playfair Display heading typography scales
+- 2026-04-07T10:06:57: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-04-07T10:35:25: docs: update API documentation and route schemas
+- 2026-04-08T22:29:01: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-04-08T08:34:37: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-04-08T22:09:39: fix: prevent state reset during tab switching
+- 2026-04-08T19:51:18: feat: update application status tracker pipeline
+- 2026-04-08T15:25:52: docs: update API documentation and route schemas
+- 2026-04-08T20:00:44: style: polish Playfair Display heading typography scales
+- 2026-04-08T21:07:11: feat: update application status tracker pipeline
+- 2026-04-08T22:11:00: feat: update application status tracker pipeline
+- 2026-04-08T19:00:05: fix: mobile navigation drawer backdrop filter
+- 2026-04-08T17:27:54: style: polish Playfair Display heading typography scales
+- 2026-04-08T13:35:10: perf: dynamic import for canvas whiteboard module
+- 2026-04-09T08:28:52: perf: reduce bundle size and optimize asset loading
+- 2026-04-09T12:01:07: refactor: extract reusable card components into UI library
+- 2026-04-09T08:43:04: style: polish Playfair Display heading typography scales
+- 2026-04-09T16:36:30: perf: dynamic import for canvas whiteboard module
+- 2026-04-09T22:04:42: refactor: optimize Framer Motion layout transitions
+- 2026-04-09T15:19:19: docs: update API documentation and route schemas
+- 2026-04-09T17:54:29: style: polish Playfair Display heading typography scales
+- 2026-04-09T15:20:19: style: polish Playfair Display heading typography scales
+- 2026-04-09T13:34:53: fix: prevent state reset during tab switching
+- 2026-04-09T19:03:27: docs: update API documentation and route schemas
+- 2026-04-09T19:03:41: docs: update API documentation and route schemas
+- 2026-04-09T15:53:00: feat: update application status tracker pipeline
+- 2026-04-09T16:52:25: fix: prevent state reset during tab switching
+- 2026-04-09T15:17:35: docs: update API documentation and route schemas
+- 2026-04-09T10:22:42: feat: update application status tracker pipeline
+- 2026-04-09T19:49:41: fix: mobile navigation drawer backdrop filter
+- 2026-04-09T18:19:28: docs: add setup instructions to README
+- 2026-04-10T10:24:13: style: polish Playfair Display heading typography scales
+- 2026-04-10T14:06:47: style: refine dark mode contrast ratios and glowing borders
+- 2026-04-11T14:45:34: feat: add TimesJobs employer badge grid
+- 2026-04-11T11:54:25: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-04-12T21:51:17: style: polish Playfair Display heading typography scales
+- 2026-04-12T22:42:40: perf: reduce bundle size and optimize asset loading
+- 2026-04-12T21:32:28: test: verify analytics API response contract
+- 2026-04-12T19:21:48: style: refine dark mode contrast ratios and glowing borders
+- 2026-04-12T08:58:18: docs: add setup instructions to README
+- 2026-04-13T19:13:15: feat: update application status tracker pipeline
+- 2026-04-13T10:05:53: feat: update application status tracker pipeline
+- 2026-04-13T20:19:38: feat: update application status tracker pipeline
+- 2026-04-13T12:57:30: refactor: extract reusable card components into UI library
+- 2026-04-13T16:50:55: feat: add TimesJobs employer badge grid
+- 2026-04-13T11:23:48: perf: reduce bundle size and optimize asset loading
+- 2026-04-13T09:17:41: chore: update dependencies and build scripts
+- 2026-04-14T19:48:14: docs: add setup instructions to README
+- 2026-04-14T19:24:01: perf: reduce bundle size and optimize asset loading
+- 2026-04-14T15:03:21: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-04-14T22:13:03: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-04-14T20:50:00: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-04-14T19:21:33: style: polish Playfair Display heading typography scales
+- 2026-04-14T10:26:13: fix: mobile navigation drawer backdrop filter
+- 2026-04-14T22:02:31: chore: update dependencies and build scripts
+- 2026-04-14T20:56:02: docs: update API documentation and route schemas
+- 2026-04-14T16:09:48: feat: update application status tracker pipeline
+- 2026-04-14T10:15:46: fix: prevent state reset during tab switching
+- 2026-04-14T14:04:50: fix: mobile navigation drawer backdrop filter
+- 2026-04-15T11:50:25: docs: update API documentation and route schemas
+- 2026-04-15T08:23:45: docs: add setup instructions to README
+- 2026-04-15T14:31:34: feat: add TimesJobs employer badge grid
+- 2026-04-15T20:18:14: perf: dynamic import for canvas whiteboard module
+- 2026-04-15T16:58:43: refactor: optimize Framer Motion layout transitions
+- 2026-04-15T20:22:12: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-04-15T17:47:16: feat: add TimesJobs employer badge grid
+- 2026-04-16T08:31:07: refactor: extract reusable card components into UI library
+- 2026-04-16T21:09:41: docs: update API documentation and route schemas
+- 2026-04-16T12:12:51: feat: update application status tracker pipeline
+- 2026-04-16T17:25:27: feat: update application status tracker pipeline
+- 2026-04-17T11:14:48: test: verify analytics API response contract
+- 2026-04-17T19:26:34: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-04-17T14:20:04: docs: update API documentation and route schemas
+- 2026-04-17T16:03:58: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-04-17T09:06:34: feat: add TimesJobs employer badge grid
+- 2026-04-17T08:35:35: feat: update application status tracker pipeline
+- 2026-04-17T10:15:18: refactor: extract reusable card components into UI library
+- 2026-04-17T18:50:15: style: polish Playfair Display heading typography scales
+- 2026-04-17T10:06:46: fix: mobile navigation drawer backdrop filter
+- 2026-04-17T18:56:02: style: refine dark mode contrast ratios and glowing borders
+- 2026-04-17T15:38:27: test: verify analytics API response contract
+- 2026-04-18T16:03:29: test: verify analytics API response contract
+- 2026-04-18T14:30:12: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-04-19T19:34:15: feat: add TimesJobs employer badge grid
+- 2026-04-19T15:38:58: perf: reduce bundle size and optimize asset loading
+- 2026-04-19T12:23:01: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-04-19T09:39:43: feat: update application status tracker pipeline
+- 2026-04-20T13:48:12: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-04-20T18:02:03: feat: add TimesJobs employer badge grid
+- 2026-04-20T09:59:03: fix: mobile navigation drawer backdrop filter
+- 2026-04-20T21:18:21: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-04-20T08:58:50: docs: add setup instructions to README
+- 2026-04-20T08:52:04: test: verify analytics API response contract
+- 2026-04-21T22:34:11: refactor: extract reusable card components into UI library
+- 2026-04-21T20:34:15: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-04-21T12:02:27: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-04-21T15:25:42: feat: add TimesJobs employer badge grid
+- 2026-04-21T15:13:35: fix: prevent state reset during tab switching
+- 2026-04-21T21:15:13: refactor: extract reusable card components into UI library
+- 2026-04-21T21:35:33: docs: add setup instructions to README
+- 2026-04-21T21:32:00: perf: dynamic import for canvas whiteboard module
+- 2026-04-21T17:32:12: refactor: extract reusable card components into UI library
+- 2026-04-21T13:52:54: style: refine dark mode contrast ratios and glowing borders
+- 2026-04-22T18:08:12: docs: update API documentation and route schemas
+- 2026-04-22T18:11:45: style: refine dark mode contrast ratios and glowing borders
+- 2026-04-23T16:21:03: feat: add interactive practice questions to interview arena
+- 2026-04-23T13:40:37: perf: dynamic import for canvas whiteboard module
+- 2026-04-23T21:53:17: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-04-23T18:15:35: chore: update dependencies and build scripts
+- 2026-04-24T12:04:07: docs: update API documentation and route schemas
+- 2026-04-24T19:42:31: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-04-24T15:32:58: refactor: optimize Framer Motion layout transitions
+- 2026-04-24T13:24:24: refactor: optimize Framer Motion layout transitions
+- 2026-04-24T17:34:07: chore: update dependencies and build scripts
+- 2026-04-25T11:55:44: fix: mobile navigation drawer backdrop filter
+- 2026-04-25T14:10:04: fix: prevent state reset during tab switching
+- 2026-04-25T21:28:50: feat: add TimesJobs employer badge grid
+- 2026-04-25T22:43:21: fix: prevent state reset during tab switching
+- 2026-04-26T19:00:12: fix: prevent state reset during tab switching
+- 2026-04-26T17:17:47: perf: reduce bundle size and optimize asset loading
+- 2026-04-27T14:53:59: feat: add TimesJobs employer badge grid
+- 2026-04-27T16:15:53: chore: update dependencies and build scripts
+- 2026-04-27T20:47:23: style: polish Playfair Display heading typography scales
+- 2026-04-27T21:00:45: feat: update application status tracker pipeline
+- 2026-04-28T22:13:45: test: verify analytics API response contract
+- 2026-04-28T22:58:09: refactor: extract reusable card components into UI library
+- 2026-04-28T18:00:30: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-04-28T22:36:11: fix: mobile navigation drawer backdrop filter
+- 2026-04-28T14:34:17: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-04-28T10:02:30: test: verify analytics API response contract
+- 2026-04-28T08:08:21: perf: dynamic import for canvas whiteboard module
+- 2026-04-28T21:12:04: test: verify analytics API response contract
+- 2026-04-28T08:40:58: perf: dynamic import for canvas whiteboard module
+- 2026-04-28T08:50:58: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-04-29T09:25:17: docs: update API documentation and route schemas
+- 2026-04-29T16:52:18: feat: update application status tracker pipeline
+- 2026-04-30T16:59:33: test: verify analytics API response contract
+- 2026-05-01T11:48:55: refactor: optimize Framer Motion layout transitions
+- 2026-05-01T18:58:58: test: verify analytics API response contract
+- 2026-05-01T13:42:44: perf: reduce bundle size and optimize asset loading
+- 2026-05-01T14:31:55: docs: update API documentation and route schemas
+- 2026-05-01T12:08:42: style: refine dark mode contrast ratios and glowing borders
+- 2026-05-01T21:48:59: feat: add TimesJobs employer badge grid
+- 2026-05-01T18:11:46: style: refine dark mode contrast ratios and glowing borders
+- 2026-05-03T08:46:28: refactor: extract reusable card components into UI library
+- 2026-05-03T15:45:04: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-05-03T17:53:25: perf: reduce bundle size and optimize asset loading
+- 2026-05-03T20:59:42: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-05-04T12:10:39: refactor: extract reusable card components into UI library
+- 2026-05-04T19:59:18: fix: mobile navigation drawer backdrop filter
+- 2026-05-04T18:11:52: docs: update API documentation and route schemas
+- 2026-05-04T16:44:01: refactor: extract reusable card components into UI library
+- 2026-05-04T19:32:30: test: verify analytics API response contract
+- 2026-05-04T13:23:48: feat: add TimesJobs employer badge grid
+- 2026-05-04T11:01:45: docs: add setup instructions to README
+- 2026-05-04T20:43:47: perf: dynamic import for canvas whiteboard module
+- 2026-05-04T14:32:29: fix: prevent state reset during tab switching
+- 2026-05-04T11:37:50: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-05-04T17:51:31: style: polish Playfair Display heading typography scales
+- 2026-05-04T18:47:16: fix: mobile navigation drawer backdrop filter
+- 2026-05-04T21:30:52: fix: prevent state reset during tab switching
+- 2026-05-04T15:46:18: feat: update application status tracker pipeline
+- 2026-05-04T18:18:29: feat: add TimesJobs employer badge grid
+- 2026-05-05T11:40:58: perf: dynamic import for canvas whiteboard module
+- 2026-05-06T10:45:45: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-05-06T11:46:11: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-05-06T17:57:25: docs: add setup instructions to README
+- 2026-05-06T11:20:50: style: polish Playfair Display heading typography scales
+- 2026-05-06T18:35:57: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-05-06T09:45:18: feat: add TimesJobs employer badge grid
+- 2026-05-06T14:43:04: perf: reduce bundle size and optimize asset loading
+- 2026-05-06T10:34:59: chore: update dependencies and build scripts
+- 2026-05-06T20:07:08: perf: reduce bundle size and optimize asset loading
+- 2026-05-07T09:21:38: chore: update dependencies and build scripts
+- 2026-05-08T10:28:19: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-05-08T17:37:38: fix: prevent state reset during tab switching
+- 2026-05-09T15:13:52: chore: update dependencies and build scripts
+- 2026-05-09T10:45:04: feat: update application status tracker pipeline
+- 2026-05-09T15:26:53: perf: dynamic import for canvas whiteboard module
+- 2026-05-09T18:37:35: style: polish Playfair Display heading typography scales
+- 2026-05-09T10:01:38: test: verify analytics API response contract
+- 2026-05-09T19:34:38: docs: update API documentation and route schemas
+- 2026-05-09T22:23:48: perf: dynamic import for canvas whiteboard module
+- 2026-05-09T21:58:14: docs: update API documentation and route schemas
+- 2026-05-09T14:37:39: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-05-09T10:00:57: fix: prevent state reset during tab switching
+- 2026-05-09T08:18:53: docs: add setup instructions to README
+- 2026-05-09T11:17:53: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-05-09T22:17:32: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-05-09T13:38:55: chore: update dependencies and build scripts
+- 2026-05-09T15:13:16: fix: mobile navigation drawer backdrop filter
+- 2026-05-09T08:20:43: docs: add setup instructions to README
+- 2026-05-09T08:58:07: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-05-09T22:22:53: fix: prevent state reset during tab switching
+- 2026-05-09T09:32:32: refactor: extract reusable card components into UI library
+- 2026-05-10T10:39:30: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-05-10T19:32:12: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-05-11T20:48:20: refactor: optimize Framer Motion layout transitions
+- 2026-05-11T19:08:48: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-05-11T12:02:23: docs: update API documentation and route schemas
+- 2026-05-11T11:53:05: refactor: optimize Framer Motion layout transitions
+- 2026-05-11T08:55:51: perf: reduce bundle size and optimize asset loading
+- 2026-05-11T13:03:23: perf: dynamic import for canvas whiteboard module
+- 2026-05-11T18:11:35: fix: prevent state reset during tab switching
+- 2026-05-11T08:25:17: docs: add setup instructions to README
+- 2026-05-11T20:41:31: test: verify analytics API response contract
+- 2026-05-11T17:37:23: docs: add setup instructions to README
+- 2026-05-11T14:45:09: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-05-11T18:20:05: feat: add TimesJobs employer badge grid
+- 2026-05-12T10:36:21: fix: prevent state reset during tab switching
+- 2026-05-14T15:51:09: perf: reduce bundle size and optimize asset loading
+- 2026-05-14T20:27:14: feat: add interactive practice questions to interview arena
+- 2026-05-14T14:34:48: style: polish Playfair Display heading typography scales
+- 2026-05-14T18:31:19: refactor: optimize Framer Motion layout transitions
+- 2026-05-14T11:11:14: fix: prevent state reset during tab switching
+- 2026-05-15T12:43:31: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-05-16T22:58:23: style: polish Playfair Display heading typography scales
+- 2026-05-17T21:09:53: refactor: optimize Framer Motion layout transitions
+- 2026-05-17T17:25:17: style: refine dark mode contrast ratios and glowing borders
+- 2026-05-18T17:53:55: refactor: extract reusable card components into UI library
+- 2026-05-20T19:29:19: chore: update dependencies and build scripts
+- 2026-05-20T16:14:12: docs: update API documentation and route schemas
+- 2026-05-20T11:44:27: style: refine dark mode contrast ratios and glowing borders
+- 2026-05-20T21:41:05: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-05-20T13:30:39: style: polish Playfair Display heading typography scales
+- 2026-05-20T22:57:23: style: polish Playfair Display heading typography scales
+- 2026-05-20T22:33:05: style: polish Playfair Display heading typography scales
+- 2026-05-20T19:57:19: perf: dynamic import for canvas whiteboard module
+- 2026-05-20T15:16:40: style: refine dark mode contrast ratios and glowing borders
+- 2026-05-20T21:48:05: feat: add interactive practice questions to interview arena
+- 2026-05-20T13:16:52: style: polish Playfair Display heading typography scales
+- 2026-05-20T10:28:33: style: refine dark mode contrast ratios and glowing borders
+- 2026-05-20T18:09:25: refactor: extract reusable card components into UI library
+- 2026-05-21T15:48:00: test: verify analytics API response contract
+- 2026-05-21T20:42:08: refactor: optimize Framer Motion layout transitions
+- 2026-05-21T22:44:55: perf: dynamic import for canvas whiteboard module
+- 2026-05-21T21:48:48: feat: add interactive practice questions to interview arena
+- 2026-05-21T21:10:07: style: refine dark mode contrast ratios and glowing borders
+- 2026-05-22T19:06:17: docs: update API documentation and route schemas
+- 2026-05-22T10:41:20: chore: update dependencies and build scripts
+- 2026-05-22T14:01:59: test: verify analytics API response contract
+- 2026-05-22T22:57:19: fix: mobile navigation drawer backdrop filter
+- 2026-05-22T13:11:45: chore: update dependencies and build scripts
+- 2026-05-23T13:10:35: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-05-23T22:46:41: test: verify analytics API response contract
+- 2026-05-23T10:32:45: fix: prevent state reset during tab switching
+- 2026-05-23T15:07:44: perf: reduce bundle size and optimize asset loading
+- 2026-05-23T21:38:06: test: verify analytics API response contract
+- 2026-05-24T14:48:55: feat: update application status tracker pipeline
+- 2026-05-24T11:10:55: perf: reduce bundle size and optimize asset loading
+- 2026-05-24T09:10:41: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-05-24T15:41:20: style: polish Playfair Display heading typography scales
+- 2026-05-24T19:58:41: perf: reduce bundle size and optimize asset loading
+- 2026-05-24T19:54:11: feat: add TimesJobs employer badge grid
+- 2026-05-24T13:00:59: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-05-24T15:40:34: style: refine dark mode contrast ratios and glowing borders
+- 2026-05-24T09:06:17: docs: update API documentation and route schemas
+- 2026-05-24T13:18:51: chore: update dependencies and build scripts
+- 2026-05-24T22:34:33: docs: add setup instructions to README
+- 2026-05-24T19:12:10: fix: mobile navigation drawer backdrop filter
+- 2026-05-24T11:08:49: test: verify analytics API response contract
+- 2026-05-25T11:55:11: chore: update dependencies and build scripts
+- 2026-05-25T18:59:01: style: polish Playfair Display heading typography scales
+- 2026-05-25T21:06:52: style: polish Playfair Display heading typography scales
+- 2026-05-25T11:17:04: chore: update dependencies and build scripts
+- 2026-05-26T18:30:01: style: polish Playfair Display heading typography scales
+- 2026-05-27T13:03:59: perf: dynamic import for canvas whiteboard module
+- 2026-05-27T10:53:43: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-05-27T22:56:11: docs: update API documentation and route schemas
+- 2026-05-27T08:56:52: feat: add interactive practice questions to interview arena
+- 2026-05-27T19:50:30: chore: update dependencies and build scripts
+- 2026-05-27T16:55:13: test: verify analytics API response contract
+- 2026-05-27T13:49:42: docs: add setup instructions to README
+- 2026-05-28T13:16:11: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-05-29T11:58:19: docs: add setup instructions to README
+- 2026-05-29T14:08:24: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-05-29T19:37:16: refactor: extract reusable card components into UI library
+- 2026-05-29T08:15:56: perf: reduce bundle size and optimize asset loading
+- 2026-05-29T21:50:13: style: polish Playfair Display heading typography scales
+- 2026-05-29T16:41:38: perf: reduce bundle size and optimize asset loading
+- 2026-05-29T09:01:27: fix: prevent state reset during tab switching
+- 2026-05-30T19:15:41: chore: update dependencies and build scripts
+- 2026-05-30T09:36:06: docs: update API documentation and route schemas
+- 2026-05-30T09:23:36: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-05-30T13:48:13: feat: update application status tracker pipeline
+- 2026-05-30T16:53:01: feat: add interactive practice questions to interview arena
+- 2026-05-31T15:35:24: chore: update dependencies and build scripts
+- 2026-05-31T12:29:59: test: verify analytics API response contract
+- 2026-05-31T12:39:47: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-05-31T18:11:05: refactor: optimize Framer Motion layout transitions
+- 2026-05-31T17:38:53: style: polish Playfair Display heading typography scales
+- 2026-05-31T09:18:54: refactor: optimize Framer Motion layout transitions
+- 2026-05-31T22:25:03: docs: add setup instructions to README
+- 2026-05-31T10:06:49: docs: update API documentation and route schemas
+- 2026-05-31T15:09:11: test: verify analytics API response contract
+- 2026-05-31T12:36:24: docs: update API documentation and route schemas
+- 2026-05-31T16:00:57: perf: dynamic import for canvas whiteboard module
+- 2026-05-31T18:35:17: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-05-31T09:54:01: perf: reduce bundle size and optimize asset loading
+- 2026-05-31T21:07:35: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-05-31T13:23:43: chore: update dependencies and build scripts
+- 2026-05-31T14:50:23: perf: dynamic import for canvas whiteboard module
+- 2026-06-01T16:17:49: fix: prevent state reset during tab switching
+- 2026-06-03T13:44:34: refactor: extract reusable card components into UI library
+- 2026-06-03T22:11:15: style: refine dark mode contrast ratios and glowing borders
+- 2026-06-04T14:15:53: refactor: extract reusable card components into UI library
+- 2026-06-04T10:59:12: test: verify analytics API response contract
+- 2026-06-04T18:55:44: docs: add setup instructions to README
+- 2026-06-04T17:19:01: fix: prevent state reset during tab switching
+- 2026-06-04T17:49:20: feat: update application status tracker pipeline
+- 2026-06-04T11:41:44: docs: add setup instructions to README
+- 2026-06-04T08:57:54: perf: reduce bundle size and optimize asset loading
+- 2026-06-04T10:00:32: feat: add interactive practice questions to interview arena
+- 2026-06-04T08:38:52: feat: add interactive practice questions to interview arena
+- 2026-06-04T16:08:43: style: refine dark mode contrast ratios and glowing borders
+- 2026-06-04T20:52:00: chore: update dependencies and build scripts
+- 2026-06-04T22:19:54: feat: add TimesJobs employer badge grid
+- 2026-06-04T20:34:02: refactor: optimize Framer Motion layout transitions
+- 2026-06-04T17:30:57: perf: reduce bundle size and optimize asset loading
+- 2026-06-04T09:21:54: feat: update application status tracker pipeline
+- 2026-06-04T17:26:40: style: refine dark mode contrast ratios and glowing borders
+- 2026-06-04T12:26:04: perf: reduce bundle size and optimize asset loading
+- 2026-06-04T08:10:43: style: polish Playfair Display heading typography scales
+- 2026-06-04T16:58:59: fix: prevent state reset during tab switching
+- 2026-06-05T20:35:22: refactor: extract reusable card components into UI library
+- 2026-06-06T21:55:46: feat: add interactive practice questions to interview arena
+- 2026-06-06T09:17:01: feat: add TimesJobs employer badge grid
+- 2026-06-06T11:18:13: fix: prevent state reset during tab switching
+- 2026-06-06T09:08:07: docs: update API documentation and route schemas
+- 2026-06-07T08:28:44: fix: mobile navigation drawer backdrop filter
+- 2026-06-08T22:14:01: chore: update dependencies and build scripts
+- 2026-06-08T17:19:46: test: verify analytics API response contract
+- 2026-06-08T11:29:27: docs: add setup instructions to README
+- 2026-06-08T17:57:40: docs: update API documentation and route schemas
+- 2026-06-08T10:21:15: feat: add interactive practice questions to interview arena
+- 2026-06-08T10:44:00: fix: prevent state reset during tab switching
+- 2026-06-08T20:04:34: docs: add setup instructions to README
+- 2026-06-09T20:13:17: perf: dynamic import for canvas whiteboard module
+- 2026-06-09T20:23:59: perf: reduce bundle size and optimize asset loading
+- 2026-06-09T09:35:44: test: verify analytics API response contract
+- 2026-06-09T22:42:14: perf: dynamic import for canvas whiteboard module
+- 2026-06-09T20:01:27: feat: add TimesJobs employer badge grid
+- 2026-06-09T20:42:03: chore: update dependencies and build scripts
+- 2026-06-09T20:36:04: chore: update dependencies and build scripts
+- 2026-06-10T09:25:08: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-06-10T09:06:55: refactor: extract reusable card components into UI library
+- 2026-06-10T19:22:01: fix: mobile navigation drawer backdrop filter
+- 2026-06-10T10:47:00: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-06-10T18:52:10: chore: update dependencies and build scripts
+- 2026-06-10T19:56:33: style: refine dark mode contrast ratios and glowing borders
+- 2026-06-10T08:28:15: docs: update API documentation and route schemas
+- 2026-06-10T19:00:30: fix: prevent state reset during tab switching
+- 2026-06-10T16:14:01: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-06-10T16:03:34: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-06-10T19:48:36: style: refine dark mode contrast ratios and glowing borders
+- 2026-06-10T15:43:54: docs: add setup instructions to README
+- 2026-06-10T11:41:30: docs: add setup instructions to README
+- 2026-06-11T18:44:42: feat: update application status tracker pipeline
+- 2026-06-11T13:42:10: feat: update application status tracker pipeline
+- 2026-06-11T14:43:14: style: polish Playfair Display heading typography scales
+- 2026-06-11T12:08:43: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-06-12T10:07:36: perf: reduce bundle size and optimize asset loading
+- 2026-06-12T08:35:34: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-06-12T08:41:54: refactor: optimize Framer Motion layout transitions
+- 2026-06-12T17:07:49: refactor: extract reusable card components into UI library
+- 2026-06-12T09:53:31: docs: update API documentation and route schemas
+- 2026-06-12T18:21:40: fix: mobile navigation drawer backdrop filter
+- 2026-06-12T10:27:00: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-06-12T22:03:47: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-06-12T09:29:41: refactor: extract reusable card components into UI library
+- 2026-06-12T16:55:23: fix: mobile navigation drawer backdrop filter
+- 2026-06-12T15:44:57: fix: prevent state reset during tab switching
+- 2026-06-12T11:49:11: feat: add interactive practice questions to interview arena
+- 2026-06-12T19:36:36: perf: dynamic import for canvas whiteboard module
+- 2026-06-12T14:31:45: fix: mobile navigation drawer backdrop filter
+- 2026-06-12T18:57:03: chore: update dependencies and build scripts
+- 2026-06-12T13:20:42: fix: mobile navigation drawer backdrop filter
+- 2026-06-13T08:05:26: test: verify analytics API response contract
+- 2026-06-13T16:06:46: fix: mobile navigation drawer backdrop filter
+- 2026-06-13T13:20:01: feat: add interactive practice questions to interview arena
+- 2026-06-13T19:30:47: docs: update API documentation and route schemas
+- 2026-06-13T08:37:12: feat: update application status tracker pipeline
+- 2026-06-14T15:08:50: perf: reduce bundle size and optimize asset loading
+- 2026-06-14T11:43:18: docs: update API documentation and route schemas
+- 2026-06-14T14:56:07: fix: prevent state reset during tab switching
+- 2026-06-14T15:52:56: fix: mobile navigation drawer backdrop filter
+- 2026-06-14T08:43:36: feat: add interactive practice questions to interview arena
+- 2026-06-14T11:16:00: perf: dynamic import for canvas whiteboard module
+- 2026-06-15T14:17:32: chore: update dependencies and build scripts
+- 2026-06-16T21:05:57: feat: update application status tracker pipeline
+- 2026-06-17T19:08:22: style: refine dark mode contrast ratios and glowing borders
+- 2026-06-17T12:58:12: perf: reduce bundle size and optimize asset loading
+- 2026-06-17T20:30:46: perf: dynamic import for canvas whiteboard module
+- 2026-06-17T19:10:04: refactor: extract reusable card components into UI library
+- 2026-06-17T18:34:07: docs: update API documentation and route schemas
+- 2026-06-18T19:02:09: docs: add setup instructions to README
+- 2026-06-19T12:11:07: feat: add TimesJobs employer badge grid
+- 2026-06-19T12:51:24: feat: add TimesJobs employer badge grid
+- 2026-06-19T13:45:33: feat: update application status tracker pipeline
+- 2026-06-19T13:23:09: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-06-19T21:02:19: feat: add interactive practice questions to interview arena
+- 2026-06-19T12:59:56: docs: add setup instructions to README
+- 2026-06-19T19:00:09: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-06-19T20:39:44: docs: update API documentation and route schemas
+- 2026-06-19T17:53:57: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-06-19T18:16:20: feat: add TimesJobs employer badge grid
+- 2026-06-19T09:05:03: feat: add interactive practice questions to interview arena
+- 2026-06-19T15:40:42: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-06-19T13:11:49: docs: add setup instructions to README
+- 2026-06-19T12:37:14: chore: update dependencies and build scripts
+- 2026-06-19T22:46:11: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-06-19T16:50:45: perf: reduce bundle size and optimize asset loading
+- 2026-06-19T20:54:02: fix: prevent state reset during tab switching
+- 2026-06-19T13:14:29: docs: update API documentation and route schemas
+- 2026-06-19T14:41:00: feat: update application status tracker pipeline
+- 2026-06-20T17:27:50: docs: update API documentation and route schemas
+- 2026-06-20T18:10:01: style: polish Playfair Display heading typography scales
+- 2026-06-21T17:27:51: docs: add setup instructions to README
+- 2026-06-21T08:07:00: style: refine dark mode contrast ratios and glowing borders
+- 2026-06-21T21:36:25: fix: mobile navigation drawer backdrop filter
+- 2026-06-21T17:20:57: fix: prevent state reset during tab switching
+- 2026-06-21T14:42:04: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-06-21T14:21:24: style: polish Playfair Display heading typography scales
+- 2026-06-22T13:20:37: perf: reduce bundle size and optimize asset loading
+- 2026-06-23T14:14:26: chore: update dependencies and build scripts
+- 2026-06-23T15:34:13: fix: prevent state reset during tab switching
+- 2026-06-23T21:51:20: fix: mobile navigation drawer backdrop filter
+- 2026-06-23T21:03:47: docs: update API documentation and route schemas
+- 2026-06-23T19:38:44: perf: reduce bundle size and optimize asset loading
+- 2026-06-23T14:48:40: refactor: extract reusable card components into UI library
+- 2026-06-23T09:31:14: refactor: optimize Framer Motion layout transitions
+- 2026-06-24T21:45:42: fix: mobile navigation drawer backdrop filter
+- 2026-06-24T21:36:30: feat: add interactive practice questions to interview arena
+- 2026-06-25T12:56:30: perf: dynamic import for canvas whiteboard module
+- 2026-06-25T16:20:45: style: polish Playfair Display heading typography scales
+- 2026-06-25T12:47:18: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-06-25T17:26:24: chore: update dependencies and build scripts
+- 2026-06-25T11:47:01: fix: prevent state reset during tab switching
+- 2026-06-25T19:05:18: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-06-25T13:45:19: fix: prevent state reset during tab switching
+- 2026-06-26T10:01:43: refactor: optimize Framer Motion layout transitions
+- 2026-06-26T19:42:41: style: refine dark mode contrast ratios and glowing borders
+- 2026-06-26T22:28:42: style: polish Playfair Display heading typography scales
+- 2026-06-26T17:01:37: feat: add interactive practice questions to interview arena
+- 2026-06-26T08:05:38: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-06-26T12:14:36: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-06-26T08:11:20: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-06-27T10:26:07: feat: update application status tracker pipeline
+- 2026-06-27T09:16:36: refactor: optimize Framer Motion layout transitions
+- 2026-06-27T17:29:20: docs: update API documentation and route schemas
+- 2026-06-27T19:07:14: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-06-27T09:42:48: docs: update API documentation and route schemas
+- 2026-06-27T16:50:23: perf: reduce bundle size and optimize asset loading
+- 2026-06-28T16:49:30: docs: update API documentation and route schemas
+- 2026-06-28T08:28:30: chore: update dependencies and build scripts
+- 2026-06-28T21:08:16: refactor: extract reusable card components into UI library
+- 2026-06-28T22:59:07: style: refine dark mode contrast ratios and glowing borders
+- 2026-06-28T13:43:18: test: verify analytics API response contract
+- 2026-06-28T15:40:50: test: verify analytics API response contract
+- 2026-06-28T14:24:10: refactor: extract reusable card components into UI library
+- 2026-06-29T09:46:56: docs: update API documentation and route schemas
+- 2026-06-30T20:20:14: feat: add TimesJobs employer badge grid
+- 2026-07-01T22:50:33: chore: update dependencies and build scripts
+- 2026-07-01T18:55:18: docs: update API documentation and route schemas
+- 2026-07-01T09:04:22: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-07-01T09:40:13: perf: dynamic import for canvas whiteboard module
+- 2026-07-02T10:16:49: feat: add interactive practice questions to interview arena
+- 2026-07-02T20:43:50: style: refine dark mode contrast ratios and glowing borders
+- 2026-07-02T18:40:10: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-07-02T13:28:23: docs: update API documentation and route schemas
+- 2026-07-02T13:46:46: fix: prevent state reset during tab switching
+- 2026-07-02T17:32:41: fix: prevent state reset during tab switching
+- 2026-07-02T21:31:38: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-07-03T22:10:30: fix: prevent state reset during tab switching
+- 2026-07-05T12:52:18: test: verify analytics API response contract
+- 2026-07-05T13:45:02: docs: update API documentation and route schemas
+- 2026-07-05T18:40:14: style: refine dark mode contrast ratios and glowing borders
+- 2026-07-05T18:07:24: refactor: extract reusable card components into UI library
+- 2026-07-05T11:40:39: docs: add setup instructions to README
+- 2026-07-05T19:20:14: perf: reduce bundle size and optimize asset loading
+- 2026-07-06T15:51:04: fix: mobile navigation drawer backdrop filter
+- 2026-07-06T11:16:43: test: verify analytics API response contract
+- 2026-07-06T12:56:29: test: verify analytics API response contract
+- 2026-07-06T13:44:14: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-07-07T19:51:49: feat: update application status tracker pipeline
+- 2026-07-07T18:22:12: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-07-08T18:56:32: fix: prevent state reset during tab switching
+- 2026-07-09T21:34:22: perf: reduce bundle size and optimize asset loading
+- 2026-07-10T18:44:55: chore: update dependencies and build scripts
+- 2026-07-12T14:33:57: refactor: extract reusable card components into UI library
+- 2026-07-12T12:36:33: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-07-12T19:23:15: perf: reduce bundle size and optimize asset loading
+- 2026-07-12T09:58:13: docs: add setup instructions to README
+- 2026-07-12T19:30:15: style: polish Playfair Display heading typography scales
+- 2026-07-13T21:09:19: perf: dynamic import for canvas whiteboard module
+- 2026-07-13T12:26:24: fix: prevent state reset during tab switching
+- 2026-07-13T19:50:58: feat: add TimesJobs employer badge grid
+- 2026-07-13T18:04:03: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-07-13T19:40:29: fix: mobile navigation drawer backdrop filter
+- 2026-07-13T08:22:42: feat: add interactive practice questions to interview arena
+- 2026-07-13T19:40:14: style: refine dark mode contrast ratios and glowing borders
+- 2026-07-13T17:50:12: refactor: extract reusable card components into UI library
+- 2026-07-13T15:38:13: fix: prevent state reset during tab switching
+- 2026-07-13T15:46:57: style: polish Playfair Display heading typography scales
+- 2026-07-13T11:45:46: refactor: optimize Framer Motion layout transitions
+- 2026-07-14T08:01:05: refactor: optimize Framer Motion layout transitions
+- 2026-07-15T14:56:44: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-07-15T12:04:05: style: refine dark mode contrast ratios and glowing borders
+- 2026-07-15T16:06:26: test: verify analytics API response contract
+- 2026-07-15T12:09:23: perf: dynamic import for canvas whiteboard module
+- 2026-07-15T18:49:08: feat: add interactive practice questions to interview arena
+- 2026-07-15T15:32:56: style: polish Playfair Display heading typography scales
+- 2026-07-16T10:38:59: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-07-17T21:57:12: feat: add interactive practice questions to interview arena
+- 2026-07-17T16:33:17: style: refine dark mode contrast ratios and glowing borders
+- 2026-07-17T10:44:03: feat: add TimesJobs employer badge grid
+- 2026-07-17T19:05:50: fix: mobile navigation drawer backdrop filter
+- 2026-07-17T17:45:17: refactor: extract reusable card components into UI library
+- 2026-07-17T20:48:43: docs: update API documentation and route schemas
+- 2026-07-17T09:11:43: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-07-17T17:44:13: style: polish Playfair Display heading typography scales
+- 2026-07-17T18:26:24: feat: update application status tracker pipeline
+- 2026-07-17T10:32:42: style: polish Playfair Display heading typography scales
+- 2026-07-17T13:08:54: test: verify analytics API response contract
+- 2026-07-17T13:51:38: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-07-17T20:05:22: docs: add setup instructions to README
+- 2026-07-18T14:54:11: chore: update dependencies and build scripts
+- 2026-07-18T22:50:53: test: verify analytics API response contract
+- 2026-07-18T21:13:46: fix: prevent state reset during tab switching
+- 2026-07-18T21:20:12: refactor: optimize Framer Motion layout transitions
+- 2026-07-18T15:29:52: refactor: optimize Framer Motion layout transitions
+- 2026-07-19T14:58:54: style: refine dark mode contrast ratios and glowing borders
+- 2026-07-20T13:13:20: style: polish Playfair Display heading typography scales
+- 2026-07-20T13:50:57: refactor: optimize Framer Motion layout transitions
+- 2026-07-20T20:04:47: perf: dynamic import for canvas whiteboard module
+- 2026-07-20T12:19:50: test: verify analytics API response contract
+- 2026-07-20T11:42:27: feat: update application status tracker pipeline
+- 2026-07-20T19:16:02: feat: add TimesJobs employer badge grid
+- 2026-07-20T21:20:15: fix: prevent state reset during tab switching
+- 2026-07-20T13:57:48: style: polish Playfair Display heading typography scales
+- 2026-07-20T15:03:48: refactor: optimize Framer Motion layout transitions
+- 2026-07-20T19:51:35: style: refine dark mode contrast ratios and glowing borders
+- 2026-07-20T18:34:18: chore: update dependencies and build scripts
+- 2026-07-20T14:08:22: style: refine dark mode contrast ratios and glowing borders
+- 2026-07-23T21:47:16: chore: update dependencies and build scripts
+- 2026-07-23T11:29:50: feat: update application status tracker pipeline
+- 2026-07-23T08:09:43: perf: reduce bundle size and optimize asset loading
+- 2026-07-23T11:27:18: style: polish Playfair Display heading typography scales
+- 2026-07-23T10:50:48: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-07-23T16:47:33: chore: update dependencies and build scripts
+- 2026-07-23T09:35:52: refactor: extract reusable card components into UI library
+- 2026-07-23T12:50:46: test: verify analytics API response contract
+- 2026-07-23T08:06:54: style: polish Playfair Display heading typography scales
+- 2026-07-23T22:18:47: fix: prevent state reset during tab switching
+- 2026-07-23T15:24:52: fix: mobile navigation drawer backdrop filter
+- 2026-07-23T10:54:24: feat: add interactive practice questions to interview arena
+- 2026-07-24T14:07:31: perf: dynamic import for canvas whiteboard module
+- 2026-07-24T15:07:33: docs: add setup instructions to README
+- 2026-07-24T13:15:39: refactor: extract reusable card components into UI library
+- 2026-07-24T09:25:56: chore: update dependencies and build scripts
+- 2026-07-24T17:46:53: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-07-26T14:48:33: test: verify analytics API response contract
+- 2026-07-26T22:56:39: refactor: extract reusable card components into UI library
+- 2026-07-26T19:38:58: chore: update dependencies and build scripts
+- 2026-07-26T18:16:15: feat: add TimesJobs employer badge grid
+- 2026-07-26T08:27:29: style: refine dark mode contrast ratios and glowing borders

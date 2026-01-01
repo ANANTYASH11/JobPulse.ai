@@ -1,0 +1,92 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model UserProfile {
+  id          String   @id @default(uuid())
+  name        String
+  email       String
+  skills      String   // Comma-separated list of skills
+  experience  String   // JSON text of experience
+  education   String   // JSON text of education
+  resumeText  String   // Text content of resume
+  atsScore    Int      @default(0)
+  xp          Int      @default(0)
+  level       Int      @default(1)
+  streak      Int      @default(0)
+  lastActive  DateTime @default(now())
+}
+
+model Job {
+  id             String   @id @default(uuid())
+  title          String
+  company        String
+  salary         String
+  experience     String
+  skills         String   // Comma-separated required skills
+  location       String
+  remote         String   // Remote, Hybrid, On-site
+  employType     String   // Full-time, Internship, Contract
+  datePosted     DateTime @default(now())
+  originalSource String
+  link           String
+  description    String
+  aiSummary      String   // AI-generated summary
+  matchScore     Int      @default(0)
+  isBookmarked   Boolean  @default(false)
+  funding        String?
+  techStack      String?
+  difficulty     String?  // Interview difficulty
+}
+
+model Application {
+  id          String   @id @default(uuid())
+  jobId       String
+  company     String
+  role        String
+  status      String   // APPLIED, INTERVIEW_SCHEDULED, ASSESSMENT, REJECTED, OFFER, ACCEPTED
+  dateApplied DateTime @default(now())
+  notes       String?
+  timeline    String   // JSON array of history
+  checklist   String   // JSON checklist items
+}
+
+model InterviewSession {
+  id          String   @id @default(uuid())
+  role        String
+  type        String   // TEXT, VOICE, VIDEO, CODING, SYSTEM_DESIGN, BEHAVIORAL, HR
+  difficulty  String   // Easy, Medium, Hard
+  company     String?
+  date        DateTime @default(now())
+  score       Int      @default(0)
+  details     String   // JSON of sub-scores
+  feedback    String
+  transcript  String   // JSON log of Q&A
+}
+
+model CodingProblem {
+  id                String  @id @default(uuid())
+  title             String
+  topic             String  // Arrays, Strings, DP, etc.
+  difficulty        String  // Easy, Medium, Hard
+  description       String
+  starterCode       String  // JSON map of languages
+  testCases         String  // JSON list of test cases
+  optimalComplexity String?
+}
+
+model SystemDesignProblem {
+  id                 String @id @default(uuid())
+  title              String
+  description        String
+  requirements       String // JSON list of requirements
+  aiCritiqueTemplate String // Criteria
+}
