@@ -1094,3 +1094,4 @@
 - 2026-07-26T19:38:58: chore: update dependencies and build scripts
 - 2026-07-26T18:16:15: feat: add TimesJobs employer badge grid
 - 2026-07-26T08:27:29: style: refine dark mode contrast ratios and glowing borders
+- 2026-01-01T12:35:36: fix: mobile navigation drawer backdrop filter
