@@ -1097,3 +1097,4 @@
 - 2026-01-01T12:35:36: fix: mobile navigation drawer backdrop filter
 - 2026-01-01T09:13:38: chore: update dependencies and build scripts
 - 2026-01-03T11:59:34: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-01-03T08:05:41: feat: add TimesJobs employer badge grid
