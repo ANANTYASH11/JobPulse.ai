@@ -1101,3 +1101,4 @@
 - 2026-01-04T11:27:19: feat: add interactive practice questions to interview arena
 - 2026-01-06T13:01:14: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-01-06T18:15:35: style: refine dark mode contrast ratios and glowing borders
+- 2026-01-06T19:31:29: docs: update API documentation and route schemas
