@@ -1120,3 +1120,4 @@
 - 2026-01-10T09:59:31: docs: update API documentation and route schemas
 - 2026-01-10T19:01:54: docs: add setup instructions to README
 - 2026-01-10T09:13:00: style: refine dark mode contrast ratios and glowing borders
+- 2026-01-11T18:14:02: fix: prevent state reset during tab switching
