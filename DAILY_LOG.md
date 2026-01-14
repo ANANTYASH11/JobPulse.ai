@@ -1133,3 +1133,4 @@
 - 2026-01-14T20:08:41: style: refine dark mode contrast ratios and glowing borders
 - 2026-01-14T19:41:08: docs: update API documentation and route schemas
 - 2026-01-14T21:53:14: fix: mobile navigation drawer backdrop filter
+- 2026-01-14T08:04:23: style: polish Playfair Display heading typography scales
