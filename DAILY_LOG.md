@@ -1125,3 +1125,4 @@
 - 2026-01-12T15:33:59: docs: update API documentation and route schemas
 - 2026-01-12T19:27:28: test: verify analytics API response contract
 - 2026-01-14T15:14:07: refactor: optimize Framer Motion layout transitions
+- 2026-01-14T21:26:58: feat: add TimesJobs employer badge grid
