@@ -1127,3 +1127,4 @@
 - 2026-01-14T15:14:07: refactor: optimize Framer Motion layout transitions
 - 2026-01-14T21:26:58: feat: add TimesJobs employer badge grid
 - 2026-01-14T17:25:33: style: polish Playfair Display heading typography scales
+- 2026-01-14T16:54:07: perf: reduce bundle size and optimize asset loading
