@@ -1148,3 +1148,4 @@
 - 2026-01-15T18:45:55: feat: add TimesJobs employer badge grid
 - 2026-01-15T11:50:42: feat: update application status tracker pipeline
 - 2026-01-15T14:53:33: docs: update API documentation and route schemas
+- 2026-01-15T09:46:33: chore: update dependencies and build scripts
