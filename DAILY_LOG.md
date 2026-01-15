@@ -1142,3 +1142,4 @@
 - 2026-01-15T15:49:22: fix: prevent state reset during tab switching
 - 2026-01-15T19:49:00: perf: dynamic import for canvas whiteboard module
 - 2026-01-15T10:13:08: feat: add interactive practice questions to interview arena
+- 2026-01-15T22:09:49: refactor: extract reusable card components into UI library
