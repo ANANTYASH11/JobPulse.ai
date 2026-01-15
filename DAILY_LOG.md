@@ -1139,3 +1139,4 @@
 - 2026-01-15T20:28:42: style: refine dark mode contrast ratios and glowing borders
 - 2026-01-15T13:47:18: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-01-15T14:37:37: refactor: extract reusable card components into UI library
+- 2026-01-15T15:49:22: fix: prevent state reset during tab switching
