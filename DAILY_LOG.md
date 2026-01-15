@@ -1146,3 +1146,4 @@
 - 2026-01-15T13:21:04: docs: update API documentation and route schemas
 - 2026-01-15T08:41:59: style: polish Playfair Display heading typography scales
 - 2026-01-15T18:45:55: feat: add TimesJobs employer badge grid
+- 2026-01-15T11:50:42: feat: update application status tracker pipeline
