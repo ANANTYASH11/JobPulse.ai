@@ -1145,3 +1145,4 @@
 - 2026-01-15T22:09:49: refactor: extract reusable card components into UI library
 - 2026-01-15T13:21:04: docs: update API documentation and route schemas
 - 2026-01-15T08:41:59: style: polish Playfair Display heading typography scales
+- 2026-01-15T18:45:55: feat: add TimesJobs employer badge grid
