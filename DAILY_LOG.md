@@ -1137,3 +1137,4 @@
 - 2026-01-14T08:57:58: feat: add TimesJobs employer badge grid
 - 2026-01-15T12:51:42: perf: dynamic import for canvas whiteboard module
 - 2026-01-15T20:28:42: style: refine dark mode contrast ratios and glowing borders
+- 2026-01-15T13:47:18: fix: adjust glassmorphic panel blur for mobile viewport
