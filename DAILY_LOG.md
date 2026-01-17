@@ -1160,3 +1160,4 @@
 - 2026-01-17T11:20:28: refactor: extract reusable card components into UI library
 - 2026-01-17T17:26:37: feat: update application status tracker pipeline
 - 2026-01-17T13:31:22: chore: update dependencies and build scripts
+- 2026-01-17T10:32:10: fix: mobile navigation drawer backdrop filter
