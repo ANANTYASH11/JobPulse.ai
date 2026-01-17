@@ -1161,3 +1161,4 @@
 - 2026-01-17T17:26:37: feat: update application status tracker pipeline
 - 2026-01-17T13:31:22: chore: update dependencies and build scripts
 - 2026-01-17T10:32:10: fix: mobile navigation drawer backdrop filter
+- 2026-01-17T09:48:07: fix: prevent state reset during tab switching
