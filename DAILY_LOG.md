@@ -1157,3 +1157,4 @@
 - 2026-01-17T09:15:03: feat: add interactive practice questions to interview arena
 - 2026-01-17T21:50:13: perf: dynamic import for canvas whiteboard module
 - 2026-01-17T16:50:58: perf: dynamic import for canvas whiteboard module
+- 2026-01-17T11:20:28: refactor: extract reusable card components into UI library
