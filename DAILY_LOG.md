@@ -1166,3 +1166,4 @@
 - 2026-01-18T21:10:12: fix: prevent state reset during tab switching
 - 2026-01-18T13:36:38: docs: add setup instructions to README
 - 2026-01-18T10:56:18: chore: update dependencies and build scripts
+- 2026-01-18T22:03:03: refactor: extract reusable card components into UI library
