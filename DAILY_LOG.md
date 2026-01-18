@@ -1165,3 +1165,4 @@
 - 2026-01-17T22:39:34: feat: add TimesJobs employer badge grid
 - 2026-01-18T21:10:12: fix: prevent state reset during tab switching
 - 2026-01-18T13:36:38: docs: add setup instructions to README
+- 2026-01-18T10:56:18: chore: update dependencies and build scripts
