@@ -1172,3 +1172,4 @@
 - 2026-01-20T10:45:48: style: polish Playfair Display heading typography scales
 - 2026-01-20T20:47:03: fix: mobile navigation drawer backdrop filter
 - 2026-01-20T16:27:16: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-01-20T21:36:30: docs: update API documentation and route schemas
