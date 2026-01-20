@@ -1174,3 +1174,4 @@
 - 2026-01-20T16:27:16: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-01-20T21:36:30: docs: update API documentation and route schemas
 - 2026-01-20T20:02:06: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-01-20T09:01:43: style: refine dark mode contrast ratios and glowing borders
