@@ -1170,3 +1170,4 @@
 - 2026-01-18T16:01:52: test: verify analytics API response contract
 - 2026-01-19T13:14:22: chore: update dependencies and build scripts
 - 2026-01-20T10:45:48: style: polish Playfair Display heading typography scales
+- 2026-01-20T20:47:03: fix: mobile navigation drawer backdrop filter
