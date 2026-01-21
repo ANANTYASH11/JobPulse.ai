@@ -1180,3 +1180,4 @@
 - 2026-01-21T17:59:52: docs: add setup instructions to README
 - 2026-01-21T16:38:47: fix: prevent state reset during tab switching
 - 2026-01-21T22:54:31: perf: dynamic import for canvas whiteboard module
+- 2026-01-21T13:00:15: perf: reduce bundle size and optimize asset loading
