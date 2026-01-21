@@ -1177,3 +1177,4 @@
 - 2026-01-20T09:01:43: style: refine dark mode contrast ratios and glowing borders
 - 2026-01-21T22:44:48: fix: mobile navigation drawer backdrop filter
 - 2026-01-21T19:35:43: feat: add TimesJobs employer badge grid
+- 2026-01-21T17:59:52: docs: add setup instructions to README
