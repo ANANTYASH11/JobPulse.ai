@@ -1185,3 +1185,4 @@
 - 2026-01-23T09:31:55: perf: reduce bundle size and optimize asset loading
 - 2026-01-23T11:17:21: perf: reduce bundle size and optimize asset loading
 - 2026-01-23T14:35:30: chore: update dependencies and build scripts
+- 2026-01-23T15:02:16: perf: dynamic import for canvas whiteboard module
