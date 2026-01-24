@@ -1186,3 +1186,4 @@
 - 2026-01-23T11:17:21: perf: reduce bundle size and optimize asset loading
 - 2026-01-23T14:35:30: chore: update dependencies and build scripts
 - 2026-01-23T15:02:16: perf: dynamic import for canvas whiteboard module
+- 2026-01-24T13:21:13: feat: enhance ATS scoring algorithm for resume optimizer
