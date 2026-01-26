@@ -1193,3 +1193,4 @@
 - 2026-01-24T14:30:27: feat: update application status tracker pipeline
 - 2026-01-24T15:53:30: fix: mobile navigation drawer backdrop filter
 - 2026-01-24T14:28:54: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-01-26T16:26:14: feat: add TimesJobs employer badge grid
