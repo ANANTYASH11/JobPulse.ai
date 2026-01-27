@@ -1195,3 +1195,4 @@
 - 2026-01-24T14:28:54: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-01-26T16:26:14: feat: add TimesJobs employer badge grid
 - 2026-01-27T18:24:06: test: verify analytics API response contract
+- 2026-01-27T21:16:58: docs: update API documentation and route schemas
