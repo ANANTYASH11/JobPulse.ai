@@ -1196,3 +1196,4 @@
 - 2026-01-26T16:26:14: feat: add TimesJobs employer badge grid
 - 2026-01-27T18:24:06: test: verify analytics API response contract
 - 2026-01-27T21:16:58: docs: update API documentation and route schemas
+- 2026-01-29T12:14:36: feat: add interactive practice questions to interview arena
