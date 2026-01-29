@@ -1199,3 +1199,4 @@
 - 2026-01-29T12:14:36: feat: add interactive practice questions to interview arena
 - 2026-01-29T17:42:29: fix: mobile navigation drawer backdrop filter
 - 2026-01-29T19:30:20: perf: reduce bundle size and optimize asset loading
+- 2026-01-29T21:34:52: style: polish Playfair Display heading typography scales
