@@ -1205,3 +1205,4 @@
 - 2026-01-29T17:26:25: fix: mobile navigation drawer backdrop filter
 - 2026-01-29T18:58:45: fix: mobile navigation drawer backdrop filter
 - 2026-01-29T13:40:12: feat: add interactive practice questions to interview arena
+- 2026-01-29T11:29:34: refactor: extract reusable card components into UI library
