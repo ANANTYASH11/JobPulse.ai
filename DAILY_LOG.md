@@ -1212,3 +1212,4 @@
 - 2026-01-30T18:37:10: perf: reduce bundle size and optimize asset loading
 - 2026-01-30T14:01:02: test: verify analytics API response contract
 - 2026-01-30T15:19:59: perf: reduce bundle size and optimize asset loading
+- 2026-01-30T17:14:28: style: refine dark mode contrast ratios and glowing borders
