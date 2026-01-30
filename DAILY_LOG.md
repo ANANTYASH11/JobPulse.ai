@@ -1209,3 +1209,4 @@
 - 2026-01-29T21:41:45: style: polish Playfair Display heading typography scales
 - 2026-01-29T11:12:03: feat: add interactive practice questions to interview arena
 - 2026-01-30T15:06:22: feat: add interactive practice questions to interview arena
+- 2026-01-30T18:37:10: perf: reduce bundle size and optimize asset loading
