@@ -1215,3 +1215,4 @@
 - 2026-01-30T17:14:28: style: refine dark mode contrast ratios and glowing borders
 - 2026-01-31T15:45:16: refactor: optimize Framer Motion layout transitions
 - 2026-01-31T20:07:20: feat: update application status tracker pipeline
+- 2026-02-01T13:08:49: feat: add TimesJobs employer badge grid
