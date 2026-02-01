@@ -1217,3 +1217,4 @@
 - 2026-01-31T20:07:20: feat: update application status tracker pipeline
 - 2026-02-01T13:08:49: feat: add TimesJobs employer badge grid
 - 2026-02-01T14:00:28: perf: dynamic import for canvas whiteboard module
+- 2026-02-01T13:35:27: fix: mobile navigation drawer backdrop filter
