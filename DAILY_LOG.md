@@ -1230,3 +1230,4 @@
 - 2026-02-04T17:54:29: docs: add setup instructions to README
 - 2026-02-04T16:24:17: fix: prevent state reset during tab switching
 - 2026-02-04T09:41:05: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-02-04T20:51:26: fix: adjust glassmorphic panel blur for mobile viewport
