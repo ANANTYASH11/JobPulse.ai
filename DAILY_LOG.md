@@ -1233,3 +1233,4 @@
 - 2026-02-04T20:51:26: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-02-04T19:20:35: test: verify analytics API response contract
 - 2026-02-04T16:02:16: fix: mobile navigation drawer backdrop filter
+- 2026-02-04T22:45:25: feat: add TimesJobs employer badge grid
