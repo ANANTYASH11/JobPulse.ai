@@ -1227,3 +1227,4 @@
 - 2026-02-04T08:02:20: docs: add setup instructions to README
 - 2026-02-04T17:11:43: docs: update API documentation and route schemas
 - 2026-02-04T10:50:07: feat: add TimesJobs employer badge grid
+- 2026-02-04T17:54:29: docs: add setup instructions to README
