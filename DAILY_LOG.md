@@ -1251,3 +1251,4 @@
 - 2026-02-07T14:56:39: fix: prevent state reset during tab switching
 - 2026-02-07T15:04:52: test: verify analytics API response contract
 - 2026-02-07T11:09:39: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-02-07T21:13:45: perf: dynamic import for canvas whiteboard module
