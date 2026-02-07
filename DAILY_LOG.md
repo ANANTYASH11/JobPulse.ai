@@ -1243,3 +1243,4 @@
 - 2026-02-07T09:08:17: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-02-07T13:11:45: feat: add TimesJobs employer badge grid
 - 2026-02-07T20:13:00: refactor: extract reusable card components into UI library
+- 2026-02-07T13:16:36: fix: adjust glassmorphic panel blur for mobile viewport
