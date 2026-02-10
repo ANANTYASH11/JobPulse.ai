@@ -1258,3 +1258,4 @@
 - 2026-02-10T17:28:03: docs: update API documentation and route schemas
 - 2026-02-10T19:29:45: fix: mobile navigation drawer backdrop filter
 - 2026-02-10T20:41:03: perf: dynamic import for canvas whiteboard module
+- 2026-02-10T15:38:57: feat: add TimesJobs employer badge grid
