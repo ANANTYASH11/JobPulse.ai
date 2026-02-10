@@ -1257,3 +1257,4 @@
 - 2026-02-07T13:08:04: style: polish Playfair Display heading typography scales
 - 2026-02-10T17:28:03: docs: update API documentation and route schemas
 - 2026-02-10T19:29:45: fix: mobile navigation drawer backdrop filter
+- 2026-02-10T20:41:03: perf: dynamic import for canvas whiteboard module
