@@ -1259,3 +1259,4 @@
 - 2026-02-10T19:29:45: fix: mobile navigation drawer backdrop filter
 - 2026-02-10T20:41:03: perf: dynamic import for canvas whiteboard module
 - 2026-02-10T15:38:57: feat: add TimesJobs employer badge grid
+- 2026-02-10T14:08:12: fix: adjust glassmorphic panel blur for mobile viewport
