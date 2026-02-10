@@ -1256,3 +1256,4 @@
 - 2026-02-07T12:21:09: fix: mobile navigation drawer backdrop filter
 - 2026-02-07T13:08:04: style: polish Playfair Display heading typography scales
 - 2026-02-10T17:28:03: docs: update API documentation and route schemas
+- 2026-02-10T19:29:45: fix: mobile navigation drawer backdrop filter
