@@ -1270,3 +1270,4 @@
 - 2026-02-10T20:33:38: perf: reduce bundle size and optimize asset loading
 - 2026-02-12T16:11:52: refactor: optimize Framer Motion layout transitions
 - 2026-02-12T19:36:12: feat: update application status tracker pipeline
+- 2026-02-12T12:52:15: docs: add setup instructions to README
