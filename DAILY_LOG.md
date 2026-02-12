@@ -1273,3 +1273,4 @@
 - 2026-02-12T12:52:15: docs: add setup instructions to README
 - 2026-02-12T17:37:01: docs: add setup instructions to README
 - 2026-02-12T17:16:08: docs: update API documentation and route schemas
+- 2026-02-12T15:46:59: chore: update dependencies and build scripts
