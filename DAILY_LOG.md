@@ -1277,3 +1277,4 @@
 - 2026-02-13T18:16:22: perf: dynamic import for canvas whiteboard module
 - 2026-02-15T08:44:48: perf: dynamic import for canvas whiteboard module
 - 2026-02-15T19:04:23: refactor: extract reusable card components into UI library
+- 2026-02-15T09:10:52: feat: enhance ATS scoring algorithm for resume optimizer
