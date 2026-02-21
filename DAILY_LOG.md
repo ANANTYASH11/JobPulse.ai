@@ -1288,3 +1288,4 @@
 - 2026-02-19T11:11:45: refactor: optimize Framer Motion layout transitions
 - 2026-02-21T14:36:59: style: refine dark mode contrast ratios and glowing borders
 - 2026-02-21T16:41:06: docs: add setup instructions to README
+- 2026-02-21T11:28:48: perf: reduce bundle size and optimize asset loading
