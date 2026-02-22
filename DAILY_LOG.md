@@ -1290,3 +1290,4 @@
 - 2026-02-21T16:41:06: docs: add setup instructions to README
 - 2026-02-21T11:28:48: perf: reduce bundle size and optimize asset loading
 - 2026-02-21T11:26:06: fix: mobile navigation drawer backdrop filter
+- 2026-02-22T08:54:31: feat: enhance ATS scoring algorithm for resume optimizer
