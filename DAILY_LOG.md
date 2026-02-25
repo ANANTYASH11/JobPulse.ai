@@ -1297,3 +1297,4 @@
 - 2026-02-25T21:26:19: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-02-25T13:28:53: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-02-25T10:02:46: chore: update dependencies and build scripts
+- 2026-02-25T13:48:00: fix: mobile navigation drawer backdrop filter
