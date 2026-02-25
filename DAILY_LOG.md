@@ -1299,3 +1299,4 @@
 - 2026-02-25T10:02:46: chore: update dependencies and build scripts
 - 2026-02-25T13:48:00: fix: mobile navigation drawer backdrop filter
 - 2026-02-25T08:17:32: fix: mobile navigation drawer backdrop filter
+- 2026-02-25T08:31:07: docs: add setup instructions to README
