@@ -1302,3 +1302,4 @@
 - 2026-02-25T08:31:07: docs: add setup instructions to README
 - 2026-02-25T22:52:41: test: verify analytics API response contract
 - 2026-02-26T16:19:06: style: refine dark mode contrast ratios and glowing borders
+- 2026-02-26T12:03:33: style: polish Playfair Display heading typography scales
