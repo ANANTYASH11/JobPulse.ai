@@ -1304,3 +1304,4 @@
 - 2026-02-26T16:19:06: style: refine dark mode contrast ratios and glowing borders
 - 2026-02-26T12:03:33: style: polish Playfair Display heading typography scales
 - 2026-02-27T20:36:13: fix: mobile navigation drawer backdrop filter
+- 2026-02-27T09:54:10: fix: adjust glassmorphic panel blur for mobile viewport
