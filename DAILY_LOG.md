@@ -1308,3 +1308,4 @@
 - 2026-02-28T08:51:18: refactor: optimize Framer Motion layout transitions
 - 2026-02-28T08:23:44: test: verify analytics API response contract
 - 2026-02-28T08:10:48: feat: add TimesJobs employer badge grid
+- 2026-02-28T09:29:29: fix: mobile navigation drawer backdrop filter
