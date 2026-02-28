@@ -1310,3 +1310,4 @@
 - 2026-02-28T08:10:48: feat: add TimesJobs employer badge grid
 - 2026-02-28T09:29:29: fix: mobile navigation drawer backdrop filter
 - 2026-02-28T18:18:49: style: refine dark mode contrast ratios and glowing borders
+- 2026-02-28T13:18:28: fix: prevent state reset during tab switching
