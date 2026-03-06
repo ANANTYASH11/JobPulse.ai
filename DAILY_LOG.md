@@ -1322,3 +1322,4 @@
 - 2026-03-02T22:51:23: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-03-04T09:19:18: fix: mobile navigation drawer backdrop filter
 - 2026-03-05T12:56:02: refactor: optimize Framer Motion layout transitions
+- 2026-03-06T14:36:56: fix: prevent state reset during tab switching
