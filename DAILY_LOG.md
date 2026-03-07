@@ -1324,3 +1324,4 @@
 - 2026-03-05T12:56:02: refactor: optimize Framer Motion layout transitions
 - 2026-03-06T14:36:56: fix: prevent state reset during tab switching
 - 2026-03-07T08:09:21: docs: update API documentation and route schemas
+- 2026-03-07T14:30:05: feat: enhance ATS scoring algorithm for resume optimizer
