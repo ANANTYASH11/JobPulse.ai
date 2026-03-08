@@ -1329,3 +1329,4 @@
 - 2026-03-08T14:36:29: refactor: extract reusable card components into UI library
 - 2026-03-08T09:44:44: style: polish Playfair Display heading typography scales
 - 2026-03-08T16:55:32: perf: dynamic import for canvas whiteboard module
+- 2026-03-08T15:24:05: refactor: optimize Framer Motion layout transitions
