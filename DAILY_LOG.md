@@ -1325,3 +1325,4 @@
 - 2026-03-06T14:36:56: fix: prevent state reset during tab switching
 - 2026-03-07T08:09:21: docs: update API documentation and route schemas
 - 2026-03-07T14:30:05: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-03-08T12:36:42: docs: update API documentation and route schemas
