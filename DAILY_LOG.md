@@ -1337,3 +1337,4 @@
 - 2026-03-09T14:49:21: docs: update API documentation and route schemas
 - 2026-03-09T19:06:28: style: polish Playfair Display heading typography scales
 - 2026-03-09T13:32:51: docs: add setup instructions to README
+- 2026-03-09T17:46:14: perf: dynamic import for canvas whiteboard module
