@@ -1331,3 +1331,4 @@
 - 2026-03-08T16:55:32: perf: dynamic import for canvas whiteboard module
 - 2026-03-08T15:24:05: refactor: optimize Framer Motion layout transitions
 - 2026-03-08T10:54:16: feat: add TimesJobs employer badge grid
+- 2026-03-09T11:27:57: fix: prevent state reset during tab switching
