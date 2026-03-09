@@ -1333,3 +1333,4 @@
 - 2026-03-08T10:54:16: feat: add TimesJobs employer badge grid
 - 2026-03-09T11:27:57: fix: prevent state reset during tab switching
 - 2026-03-09T16:28:24: test: verify analytics API response contract
+- 2026-03-09T08:32:44: docs: update API documentation and route schemas
