@@ -1339,3 +1339,4 @@
 - 2026-03-09T13:32:51: docs: add setup instructions to README
 - 2026-03-09T17:46:14: perf: dynamic import for canvas whiteboard module
 - 2026-03-09T10:36:22: perf: reduce bundle size and optimize asset loading
+- 2026-03-09T14:11:39: feat: add TimesJobs employer badge grid
