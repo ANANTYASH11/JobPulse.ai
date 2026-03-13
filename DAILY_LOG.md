@@ -1346,3 +1346,4 @@
 - 2026-03-10T14:53:55: feat: update application status tracker pipeline
 - 2026-03-11T18:08:54: style: polish Playfair Display heading typography scales
 - 2026-03-11T16:09:34: refactor: extract reusable card components into UI library
+- 2026-03-13T13:52:04: perf: reduce bundle size and optimize asset loading
