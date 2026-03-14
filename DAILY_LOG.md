@@ -1352,3 +1352,4 @@
 - 2026-03-14T22:53:52: feat: add interactive practice questions to interview arena
 - 2026-03-14T21:57:48: fix: mobile navigation drawer backdrop filter
 - 2026-03-14T21:30:48: refactor: optimize Framer Motion layout transitions
+- 2026-03-14T17:06:41: chore: update dependencies and build scripts
