@@ -1350,3 +1350,4 @@
 - 2026-03-13T09:28:19: feat: add interactive practice questions to interview arena
 - 2026-03-14T15:17:10: feat: update application status tracker pipeline
 - 2026-03-14T22:53:52: feat: add interactive practice questions to interview arena
+- 2026-03-14T21:57:48: fix: mobile navigation drawer backdrop filter
