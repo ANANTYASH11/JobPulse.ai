@@ -1362,3 +1362,4 @@
 - 2026-03-15T17:26:53: style: polish Playfair Display heading typography scales
 - 2026-03-15T19:44:39: feat: add interactive practice questions to interview arena
 - 2026-03-15T08:44:45: docs: add setup instructions to README
+- 2026-03-15T15:37:57: feat: enhance ATS scoring algorithm for resume optimizer
