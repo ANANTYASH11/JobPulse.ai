@@ -1354,3 +1354,4 @@
 - 2026-03-14T21:30:48: refactor: optimize Framer Motion layout transitions
 - 2026-03-14T17:06:41: chore: update dependencies and build scripts
 - 2026-03-14T17:37:46: perf: reduce bundle size and optimize asset loading
+- 2026-03-15T15:06:48: fix: prevent state reset during tab switching
