@@ -1356,3 +1356,4 @@
 - 2026-03-14T17:37:46: perf: reduce bundle size and optimize asset loading
 - 2026-03-15T15:06:48: fix: prevent state reset during tab switching
 - 2026-03-15T13:17:32: style: refine dark mode contrast ratios and glowing borders
+- 2026-03-15T18:13:58: style: polish Playfair Display heading typography scales
