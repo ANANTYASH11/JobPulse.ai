@@ -1363,3 +1363,4 @@
 - 2026-03-15T19:44:39: feat: add interactive practice questions to interview arena
 - 2026-03-15T08:44:45: docs: add setup instructions to README
 - 2026-03-15T15:37:57: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-03-16T11:36:41: fix: adjust glassmorphic panel blur for mobile viewport
