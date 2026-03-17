@@ -1365,3 +1365,4 @@
 - 2026-03-15T15:37:57: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-03-16T11:36:41: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-03-16T18:38:04: docs: add setup instructions to README
+- 2026-03-17T10:06:33: perf: dynamic import for canvas whiteboard module
