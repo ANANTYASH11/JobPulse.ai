@@ -1392,3 +1392,4 @@
 - 2026-03-19T09:41:51: feat: add TimesJobs employer badge grid
 - 2026-03-19T14:46:28: docs: add setup instructions to README
 - 2026-03-19T18:19:11: feat: add interactive practice questions to interview arena
+- 2026-03-19T08:24:56: docs: add setup instructions to README
