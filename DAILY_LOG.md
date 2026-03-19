@@ -1389,3 +1389,4 @@
 - 2026-03-19T19:13:03: docs: update API documentation and route schemas
 - 2026-03-19T10:49:43: chore: update dependencies and build scripts
 - 2026-03-19T22:03:50: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-03-19T09:41:51: feat: add TimesJobs employer badge grid
