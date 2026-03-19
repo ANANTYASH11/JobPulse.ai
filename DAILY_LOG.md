@@ -1387,3 +1387,4 @@
 - 2026-03-18T15:18:04: style: polish Playfair Display heading typography scales
 - 2026-03-19T22:45:09: docs: update API documentation and route schemas
 - 2026-03-19T19:13:03: docs: update API documentation and route schemas
+- 2026-03-19T10:49:43: chore: update dependencies and build scripts
