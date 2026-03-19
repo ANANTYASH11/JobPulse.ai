@@ -1385,3 +1385,4 @@
 - 2026-03-18T08:59:56: feat: add interactive practice questions to interview arena
 - 2026-03-18T10:22:51: fix: prevent state reset during tab switching
 - 2026-03-18T15:18:04: style: polish Playfair Display heading typography scales
+- 2026-03-19T22:45:09: docs: update API documentation and route schemas
