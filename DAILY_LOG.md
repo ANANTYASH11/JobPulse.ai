@@ -1407,3 +1407,4 @@
 - 2026-03-22T08:07:00: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-03-22T10:33:49: style: polish Playfair Display heading typography scales
 - 2026-03-22T18:26:34: feat: add TimesJobs employer badge grid
+- 2026-03-22T16:41:57: fix: prevent state reset during tab switching
