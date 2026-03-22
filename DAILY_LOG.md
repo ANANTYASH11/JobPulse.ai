@@ -1401,3 +1401,4 @@
 - 2026-03-21T16:48:32: feat: add interactive practice questions to interview arena
 - 2026-03-21T14:06:30: test: verify analytics API response contract
 - 2026-03-22T16:35:42: fix: prevent state reset during tab switching
+- 2026-03-22T13:40:25: perf: dynamic import for canvas whiteboard module
