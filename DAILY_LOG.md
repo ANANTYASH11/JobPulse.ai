@@ -1408,3 +1408,4 @@
 - 2026-03-22T10:33:49: style: polish Playfair Display heading typography scales
 - 2026-03-22T18:26:34: feat: add TimesJobs employer badge grid
 - 2026-03-22T16:41:57: fix: prevent state reset during tab switching
+- 2026-03-22T11:29:23: chore: update dependencies and build scripts
