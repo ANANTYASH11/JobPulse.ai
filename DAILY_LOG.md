@@ -1413,3 +1413,4 @@
 - 2026-03-23T11:24:45: style: refine dark mode contrast ratios and glowing borders
 - 2026-03-23T20:29:43: perf: reduce bundle size and optimize asset loading
 - 2026-03-23T19:29:36: chore: update dependencies and build scripts
+- 2026-03-23T19:08:06: feat: add TimesJobs employer badge grid
