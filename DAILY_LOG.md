@@ -1423,3 +1423,4 @@
 - 2026-03-24T20:19:27: docs: update API documentation and route schemas
 - 2026-03-24T14:25:32: fix: prevent state reset during tab switching
 - 2026-03-24T09:09:16: style: polish Playfair Display heading typography scales
+- 2026-03-24T13:19:38: refactor: optimize Framer Motion layout transitions
