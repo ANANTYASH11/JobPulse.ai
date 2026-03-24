@@ -1415,3 +1415,4 @@
 - 2026-03-23T19:29:36: chore: update dependencies and build scripts
 - 2026-03-23T19:08:06: feat: add TimesJobs employer badge grid
 - 2026-03-23T22:35:48: docs: update API documentation and route schemas
+- 2026-03-24T08:32:07: perf: dynamic import for canvas whiteboard module
