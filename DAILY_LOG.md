@@ -1419,3 +1419,4 @@
 - 2026-03-24T13:57:51: feat: add TimesJobs employer badge grid
 - 2026-03-24T09:27:37: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-03-24T09:35:00: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-03-24T11:26:55: perf: reduce bundle size and optimize asset loading
