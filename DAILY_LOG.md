@@ -1432,3 +1432,4 @@
 - 2026-03-26T08:24:57: style: polish Playfair Display heading typography scales
 - 2026-03-26T20:07:31: refactor: extract reusable card components into UI library
 - 2026-03-26T22:45:19: feat: add interactive practice questions to interview arena
+- 2026-03-26T20:21:10: fix: prevent state reset during tab switching
