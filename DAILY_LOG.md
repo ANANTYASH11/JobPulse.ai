@@ -1429,3 +1429,4 @@
 - 2026-03-26T21:10:13: refactor: optimize Framer Motion layout transitions
 - 2026-03-26T18:39:23: perf: reduce bundle size and optimize asset loading
 - 2026-03-26T08:04:14: docs: add setup instructions to README
+- 2026-03-26T08:24:57: style: polish Playfair Display heading typography scales
