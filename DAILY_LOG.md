@@ -1434,3 +1434,4 @@
 - 2026-03-26T22:45:19: feat: add interactive practice questions to interview arena
 - 2026-03-26T20:21:10: fix: prevent state reset during tab switching
 - 2026-03-27T15:23:53: perf: dynamic import for canvas whiteboard module
+- 2026-03-27T19:00:24: chore: update dependencies and build scripts
