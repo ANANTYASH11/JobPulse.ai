@@ -1435,3 +1435,4 @@
 - 2026-03-26T20:21:10: fix: prevent state reset during tab switching
 - 2026-03-27T15:23:53: perf: dynamic import for canvas whiteboard module
 - 2026-03-27T19:00:24: chore: update dependencies and build scripts
+- 2026-03-29T08:29:43: refactor: optimize Framer Motion layout transitions
