@@ -1440,3 +1440,4 @@
 - 2026-03-30T12:47:09: test: verify analytics API response contract
 - 2026-03-30T15:16:04: docs: update API documentation and route schemas
 - 2026-03-30T18:06:18: style: polish Playfair Display heading typography scales
+- 2026-03-30T12:16:36: feat: enhance ATS scoring algorithm for resume optimizer
