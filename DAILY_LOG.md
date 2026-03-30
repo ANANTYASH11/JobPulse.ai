@@ -1442,3 +1442,4 @@
 - 2026-03-30T18:06:18: style: polish Playfair Display heading typography scales
 - 2026-03-30T12:16:36: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-03-30T13:16:32: style: polish Playfair Display heading typography scales
+- 2026-03-30T18:15:10: fix: prevent state reset during tab switching
