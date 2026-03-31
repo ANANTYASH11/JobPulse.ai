@@ -1451,3 +1451,4 @@
 - 2026-03-30T17:53:29: test: verify analytics API response contract
 - 2026-03-31T08:26:46: refactor: optimize Framer Motion layout transitions
 - 2026-03-31T11:40:43: docs: add setup instructions to README
+- 2026-03-31T17:51:07: fix: prevent state reset during tab switching
