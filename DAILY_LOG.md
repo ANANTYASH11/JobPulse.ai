@@ -1461,3 +1461,4 @@
 - 2026-04-03T18:32:28: feat: add interactive practice questions to interview arena
 - 2026-04-05T18:17:30: style: polish Playfair Display heading typography scales
 - 2026-04-05T18:35:59: fix: prevent state reset during tab switching
+- 2026-04-05T11:23:26: feat: update application status tracker pipeline
