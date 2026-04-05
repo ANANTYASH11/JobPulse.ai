@@ -1462,3 +1462,4 @@
 - 2026-04-05T18:17:30: style: polish Playfair Display heading typography scales
 - 2026-04-05T18:35:59: fix: prevent state reset during tab switching
 - 2026-04-05T11:23:26: feat: update application status tracker pipeline
+- 2026-04-05T18:03:21: fix: adjust glassmorphic panel blur for mobile viewport
