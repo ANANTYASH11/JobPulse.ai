@@ -1468,3 +1468,4 @@
 - 2026-04-06T11:21:52: feat: add TimesJobs employer badge grid
 - 2026-04-06T09:28:12: style: refine dark mode contrast ratios and glowing borders
 - 2026-04-06T12:08:48: feat: add TimesJobs employer badge grid
+- 2026-04-06T19:37:37: feat: add TimesJobs employer badge grid
