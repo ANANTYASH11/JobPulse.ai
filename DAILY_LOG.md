@@ -1466,3 +1466,4 @@
 - 2026-04-05T08:58:13: refactor: optimize Framer Motion layout transitions
 - 2026-04-05T22:35:53: perf: reduce bundle size and optimize asset loading
 - 2026-04-06T11:21:52: feat: add TimesJobs employer badge grid
+- 2026-04-06T09:28:12: style: refine dark mode contrast ratios and glowing borders
