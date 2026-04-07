@@ -1472,3 +1472,4 @@
 - 2026-04-07T08:30:48: perf: dynamic import for canvas whiteboard module
 - 2026-04-07T20:32:18: perf: reduce bundle size and optimize asset loading
 - 2026-04-07T12:46:48: fix: mobile navigation drawer backdrop filter
+- 2026-04-07T20:51:12: perf: dynamic import for canvas whiteboard module
