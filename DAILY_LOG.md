@@ -1481,3 +1481,4 @@
 - 2026-04-07T13:57:22: feat: update application status tracker pipeline
 - 2026-04-07T08:16:37: refactor: extract reusable card components into UI library
 - 2026-04-07T22:15:58: docs: add setup instructions to README
+- 2026-04-08T09:37:12: fix: adjust glassmorphic panel blur for mobile viewport
