@@ -1486,3 +1486,4 @@
 - 2026-04-09T17:38:15: feat: update application status tracker pipeline
 - 2026-04-10T11:14:59: style: polish Playfair Display heading typography scales
 - 2026-04-10T20:25:02: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-04-11T16:05:56: fix: prevent state reset during tab switching
