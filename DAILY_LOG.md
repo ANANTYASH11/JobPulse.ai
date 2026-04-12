@@ -1488,3 +1488,4 @@
 - 2026-04-10T20:25:02: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-04-11T16:05:56: fix: prevent state reset during tab switching
 - 2026-04-11T20:01:14: chore: update dependencies and build scripts
+- 2026-04-12T09:38:51: fix: prevent state reset during tab switching
