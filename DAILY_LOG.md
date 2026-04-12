@@ -1495,3 +1495,4 @@
 - 2026-04-12T10:57:08: refactor: optimize Framer Motion layout transitions
 - 2026-04-12T08:44:16: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-04-12T11:43:02: feat: add TimesJobs employer badge grid
+- 2026-04-12T21:01:05: fix: adjust glassmorphic panel blur for mobile viewport
