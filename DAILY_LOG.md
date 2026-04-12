@@ -1497,3 +1497,4 @@
 - 2026-04-12T11:43:02: feat: add TimesJobs employer badge grid
 - 2026-04-12T21:01:05: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-04-12T17:26:15: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-04-12T18:19:23: fix: mobile navigation drawer backdrop filter
