@@ -1500,3 +1500,4 @@
 - 2026-04-12T18:19:23: fix: mobile navigation drawer backdrop filter
 - 2026-04-13T12:02:30: feat: update application status tracker pipeline
 - 2026-04-13T18:36:26: style: polish Playfair Display heading typography scales
+- 2026-04-14T09:18:29: refactor: extract reusable card components into UI library
