@@ -1508,3 +1508,4 @@
 - 2026-04-15T13:41:25: test: verify analytics API response contract
 - 2026-04-15T08:05:42: refactor: optimize Framer Motion layout transitions
 - 2026-04-15T13:36:19: fix: mobile navigation drawer backdrop filter
+- 2026-04-16T20:29:47: fix: adjust glassmorphic panel blur for mobile viewport
