@@ -1512,3 +1512,4 @@
 - 2026-04-16T14:39:35: fix: mobile navigation drawer backdrop filter
 - 2026-04-16T10:41:49: docs: add setup instructions to README
 - 2026-04-16T20:19:13: docs: add setup instructions to README
+- 2026-04-16T19:45:13: perf: reduce bundle size and optimize asset loading
