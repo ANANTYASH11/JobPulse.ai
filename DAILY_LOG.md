@@ -1514,3 +1514,4 @@
 - 2026-04-16T20:19:13: docs: add setup instructions to README
 - 2026-04-16T19:45:13: perf: reduce bundle size and optimize asset loading
 - 2026-04-16T16:55:12: style: refine dark mode contrast ratios and glowing borders
+- 2026-04-17T17:50:57: docs: update API documentation and route schemas
