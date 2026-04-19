@@ -1517,3 +1517,4 @@
 - 2026-04-17T17:50:57: docs: update API documentation and route schemas
 - 2026-04-17T14:32:19: docs: update API documentation and route schemas
 - 2026-04-18T21:18:29: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-04-19T20:00:01: fix: mobile navigation drawer backdrop filter
