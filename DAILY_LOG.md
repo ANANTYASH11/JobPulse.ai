@@ -1531,3 +1531,4 @@
 - 2026-04-21T19:35:04: docs: update API documentation and route schemas
 - 2026-04-22T12:36:52: fix: prevent state reset during tab switching
 - 2026-04-22T10:51:11: feat: update application status tracker pipeline
+- 2026-04-22T19:34:16: fix: adjust glassmorphic panel blur for mobile viewport
