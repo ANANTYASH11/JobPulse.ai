@@ -1536,3 +1536,4 @@
 - 2026-04-22T16:45:07: docs: update API documentation and route schemas
 - 2026-04-22T11:27:03: perf: reduce bundle size and optimize asset loading
 - 2026-04-22T17:59:36: feat: add TimesJobs employer badge grid
+- 2026-04-22T20:35:03: docs: add setup instructions to README
