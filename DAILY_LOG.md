@@ -1529,3 +1529,4 @@
 - 2026-04-20T19:27:07: feat: update application status tracker pipeline
 - 2026-04-21T11:39:39: feat: update application status tracker pipeline
 - 2026-04-21T19:35:04: docs: update API documentation and route schemas
+- 2026-04-22T12:36:52: fix: prevent state reset during tab switching
