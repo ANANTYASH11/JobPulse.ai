@@ -1549,3 +1549,4 @@
 - 2026-04-23T09:07:16: fix: mobile navigation drawer backdrop filter
 - 2026-04-23T08:38:46: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-04-23T18:30:02: feat: add interactive practice questions to interview arena
+- 2026-04-23T17:12:37: feat: add TimesJobs employer badge grid
