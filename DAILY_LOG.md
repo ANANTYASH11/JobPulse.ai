@@ -1539,3 +1539,4 @@
 - 2026-04-22T20:35:03: docs: add setup instructions to README
 - 2026-04-22T10:36:15: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-04-23T17:46:19: fix: prevent state reset during tab switching
+- 2026-04-23T08:02:00: feat: add interactive practice questions to interview arena
