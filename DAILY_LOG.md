@@ -1551,3 +1551,4 @@
 - 2026-04-23T18:30:02: feat: add interactive practice questions to interview arena
 - 2026-04-23T17:12:37: feat: add TimesJobs employer badge grid
 - 2026-04-24T12:19:04: perf: dynamic import for canvas whiteboard module
+- 2026-04-24T17:08:14: docs: add setup instructions to README
