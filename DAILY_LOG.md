@@ -1557,3 +1557,4 @@
 - 2026-04-25T21:13:41: fix: mobile navigation drawer backdrop filter
 - 2026-04-25T14:33:39: perf: reduce bundle size and optimize asset loading
 - 2026-04-25T11:35:28: style: polish Playfair Display heading typography scales
+- 2026-04-25T13:02:36: feat: enhance ATS scoring algorithm for resume optimizer
