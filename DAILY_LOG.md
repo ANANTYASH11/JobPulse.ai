@@ -1555,3 +1555,4 @@
 - 2026-04-25T16:32:31: feat: add interactive practice questions to interview arena
 - 2026-04-25T15:21:20: docs: update API documentation and route schemas
 - 2026-04-25T21:13:41: fix: mobile navigation drawer backdrop filter
+- 2026-04-25T14:33:39: perf: reduce bundle size and optimize asset loading
