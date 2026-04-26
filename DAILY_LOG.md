@@ -1563,3 +1563,4 @@
 - 2026-04-26T13:53:14: feat: add interactive practice questions to interview arena
 - 2026-04-26T16:25:54: chore: update dependencies and build scripts
 - 2026-04-26T08:33:33: chore: update dependencies and build scripts
+- 2026-04-26T20:26:36: style: refine dark mode contrast ratios and glowing borders
