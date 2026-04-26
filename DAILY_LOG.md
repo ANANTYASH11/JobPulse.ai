@@ -1559,3 +1559,4 @@
 - 2026-04-25T11:35:28: style: polish Playfair Display heading typography scales
 - 2026-04-25T13:02:36: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-04-26T11:44:40: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-04-26T14:28:06: docs: update API documentation and route schemas
