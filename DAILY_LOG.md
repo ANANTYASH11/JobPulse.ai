@@ -1569,3 +1569,4 @@
 - 2026-04-28T14:25:37: perf: reduce bundle size and optimize asset loading
 - 2026-04-28T19:27:15: docs: update API documentation and route schemas
 - 2026-04-28T20:42:45: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-04-28T08:52:00: style: polish Playfair Display heading typography scales
