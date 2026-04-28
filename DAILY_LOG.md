@@ -1564,3 +1564,4 @@
 - 2026-04-26T16:25:54: chore: update dependencies and build scripts
 - 2026-04-26T08:33:33: chore: update dependencies and build scripts
 - 2026-04-26T20:26:36: style: refine dark mode contrast ratios and glowing borders
+- 2026-04-28T19:46:11: fix: adjust glassmorphic panel blur for mobile viewport
