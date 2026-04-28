@@ -1566,3 +1566,4 @@
 - 2026-04-26T20:26:36: style: refine dark mode contrast ratios and glowing borders
 - 2026-04-28T19:46:11: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-04-28T14:44:58: fix: prevent state reset during tab switching
+- 2026-04-28T14:25:37: perf: reduce bundle size and optimize asset loading
