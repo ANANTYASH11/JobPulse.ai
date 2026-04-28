@@ -1567,3 +1567,4 @@
 - 2026-04-28T19:46:11: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-04-28T14:44:58: fix: prevent state reset during tab switching
 - 2026-04-28T14:25:37: perf: reduce bundle size and optimize asset loading
+- 2026-04-28T19:27:15: docs: update API documentation and route schemas
