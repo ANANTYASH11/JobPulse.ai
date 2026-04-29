@@ -1572,3 +1572,4 @@
 - 2026-04-28T08:52:00: style: polish Playfair Display heading typography scales
 - 2026-04-29T16:53:28: feat: add TimesJobs employer badge grid
 - 2026-04-29T18:37:35: docs: add setup instructions to README
+- 2026-04-29T12:02:59: feat: add interactive practice questions to interview arena
