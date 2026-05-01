@@ -1584,3 +1584,4 @@
 - 2026-04-29T22:10:23: perf: dynamic import for canvas whiteboard module
 - 2026-04-30T15:52:41: feat: add TimesJobs employer badge grid
 - 2026-04-30T16:53:54: style: polish Playfair Display heading typography scales
+- 2026-05-01T12:27:59: fix: prevent state reset during tab switching
