@@ -1589,3 +1589,4 @@
 - 2026-05-01T09:24:10: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-05-01T20:19:16: refactor: optimize Framer Motion layout transitions
 - 2026-05-01T15:56:32: feat: add TimesJobs employer badge grid
+- 2026-05-01T08:33:00: style: polish Playfair Display heading typography scales
