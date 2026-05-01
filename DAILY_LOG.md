@@ -1588,3 +1588,4 @@
 - 2026-05-01T17:08:14: style: refine dark mode contrast ratios and glowing borders
 - 2026-05-01T09:24:10: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-05-01T20:19:16: refactor: optimize Framer Motion layout transitions
+- 2026-05-01T15:56:32: feat: add TimesJobs employer badge grid
