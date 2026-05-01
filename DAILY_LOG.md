@@ -1586,3 +1586,4 @@
 - 2026-04-30T16:53:54: style: polish Playfair Display heading typography scales
 - 2026-05-01T12:27:59: fix: prevent state reset during tab switching
 - 2026-05-01T17:08:14: style: refine dark mode contrast ratios and glowing borders
+- 2026-05-01T09:24:10: fix: adjust glassmorphic panel blur for mobile viewport
