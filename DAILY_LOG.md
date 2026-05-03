@@ -1591,3 +1591,4 @@
 - 2026-05-01T15:56:32: feat: add TimesJobs employer badge grid
 - 2026-05-01T08:33:00: style: polish Playfair Display heading typography scales
 - 2026-05-01T22:38:21: feat: add TimesJobs employer badge grid
+- 2026-05-03T10:45:52: docs: add setup instructions to README
