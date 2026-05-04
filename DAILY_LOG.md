@@ -1596,3 +1596,4 @@
 - 2026-05-03T13:58:56: perf: reduce bundle size and optimize asset loading
 - 2026-05-03T20:23:47: chore: update dependencies and build scripts
 - 2026-05-03T22:42:32: feat: update application status tracker pipeline
+- 2026-05-04T14:31:03: fix: adjust glassmorphic panel blur for mobile viewport
