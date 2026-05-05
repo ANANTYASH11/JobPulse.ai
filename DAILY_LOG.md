@@ -1600,3 +1600,4 @@
 - 2026-05-04T20:22:29: test: verify analytics API response contract
 - 2026-05-04T19:25:41: feat: add TimesJobs employer badge grid
 - 2026-05-04T14:00:16: fix: prevent state reset during tab switching
+- 2026-05-05T18:54:17: feat: add interactive practice questions to interview arena
