@@ -1606,3 +1606,4 @@
 - 2026-05-05T08:57:19: refactor: extract reusable card components into UI library
 - 2026-05-05T11:31:25: fix: mobile navigation drawer backdrop filter
 - 2026-05-05T09:43:33: perf: dynamic import for canvas whiteboard module
+- 2026-05-05T08:16:08: style: polish Playfair Display heading typography scales
