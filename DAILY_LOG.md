@@ -1612,3 +1612,4 @@
 - 2026-05-06T19:01:55: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-05-06T22:29:40: docs: update API documentation and route schemas
 - 2026-05-06T14:39:49: feat: add TimesJobs employer badge grid
+- 2026-05-07T18:39:32: fix: prevent state reset during tab switching
