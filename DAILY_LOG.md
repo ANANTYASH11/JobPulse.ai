@@ -1622,3 +1622,4 @@
 - 2026-05-08T19:07:12: fix: prevent state reset during tab switching
 - 2026-05-08T08:19:13: refactor: optimize Framer Motion layout transitions
 - 2026-05-08T18:50:03: fix: prevent state reset during tab switching
+- 2026-05-08T21:08:21: fix: mobile navigation drawer backdrop filter
