@@ -1616,3 +1616,4 @@
 - 2026-05-07T18:12:54: docs: add setup instructions to README
 - 2026-05-07T12:52:47: fix: mobile navigation drawer backdrop filter
 - 2026-05-07T18:14:30: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-05-08T20:13:55: docs: add setup instructions to README
