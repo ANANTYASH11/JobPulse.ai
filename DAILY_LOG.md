@@ -1624,3 +1624,4 @@
 - 2026-05-08T18:50:03: fix: prevent state reset during tab switching
 - 2026-05-08T21:08:21: fix: mobile navigation drawer backdrop filter
 - 2026-05-08T16:36:39: feat: add TimesJobs employer badge grid
+- 2026-05-08T09:00:03: feat: update application status tracker pipeline
