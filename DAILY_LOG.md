@@ -1627,3 +1627,4 @@
 - 2026-05-08T09:00:03: feat: update application status tracker pipeline
 - 2026-05-09T22:54:55: fix: prevent state reset during tab switching
 - 2026-05-09T18:05:45: style: polish Playfair Display heading typography scales
+- 2026-05-09T08:19:50: docs: add setup instructions to README
