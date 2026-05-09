@@ -1626,3 +1626,4 @@
 - 2026-05-08T16:36:39: feat: add TimesJobs employer badge grid
 - 2026-05-08T09:00:03: feat: update application status tracker pipeline
 - 2026-05-09T22:54:55: fix: prevent state reset during tab switching
+- 2026-05-09T18:05:45: style: polish Playfair Display heading typography scales
