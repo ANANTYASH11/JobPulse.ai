@@ -1629,3 +1629,4 @@
 - 2026-05-09T18:05:45: style: polish Playfair Display heading typography scales
 - 2026-05-09T08:19:50: docs: add setup instructions to README
 - 2026-05-09T13:40:05: fix: mobile navigation drawer backdrop filter
+- 2026-05-09T20:00:39: docs: add setup instructions to README
