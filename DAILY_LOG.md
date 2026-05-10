@@ -1634,3 +1634,4 @@
 - 2026-05-10T17:13:48: feat: add TimesJobs employer badge grid
 - 2026-05-10T14:17:59: style: polish Playfair Display heading typography scales
 - 2026-05-10T14:47:45: style: polish Playfair Display heading typography scales
+- 2026-05-10T21:28:06: test: verify analytics API response contract
