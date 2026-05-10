@@ -1631,3 +1631,4 @@
 - 2026-05-09T13:40:05: fix: mobile navigation drawer backdrop filter
 - 2026-05-09T20:00:39: docs: add setup instructions to README
 - 2026-05-09T20:24:52: fix: prevent state reset during tab switching
+- 2026-05-10T17:13:48: feat: add TimesJobs employer badge grid
