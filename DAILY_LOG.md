@@ -1637,3 +1637,4 @@
 - 2026-05-10T21:28:06: test: verify analytics API response contract
 - 2026-05-10T21:22:26: docs: add setup instructions to README
 - 2026-05-10T22:12:53: docs: update API documentation and route schemas
+- 2026-05-10T11:36:25: fix: mobile navigation drawer backdrop filter
