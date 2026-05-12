@@ -1647,3 +1647,4 @@
 - 2026-05-12T09:49:25: refactor: extract reusable card components into UI library
 - 2026-05-12T11:43:32: docs: add setup instructions to README
 - 2026-05-12T11:06:35: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-05-12T11:51:09: style: refine dark mode contrast ratios and glowing borders
