@@ -1651,3 +1651,4 @@
 - 2026-05-12T10:46:06: feat: update application status tracker pipeline
 - 2026-05-13T21:39:40: feat: add interactive practice questions to interview arena
 - 2026-05-13T22:28:04: fix: prevent state reset during tab switching
+- 2026-05-13T13:09:41: fix: prevent state reset during tab switching
