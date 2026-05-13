@@ -1654,3 +1654,4 @@
 - 2026-05-13T13:09:41: fix: prevent state reset during tab switching
 - 2026-05-13T19:13:24: feat: add interactive practice questions to interview arena
 - 2026-05-13T12:42:03: fix: mobile navigation drawer backdrop filter
+- 2026-05-13T22:50:49: fix: prevent state reset during tab switching
