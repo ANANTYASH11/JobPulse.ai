@@ -1650,3 +1650,4 @@
 - 2026-05-12T11:51:09: style: refine dark mode contrast ratios and glowing borders
 - 2026-05-12T10:46:06: feat: update application status tracker pipeline
 - 2026-05-13T21:39:40: feat: add interactive practice questions to interview arena
+- 2026-05-13T22:28:04: fix: prevent state reset during tab switching
