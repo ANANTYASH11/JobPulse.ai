@@ -1658,3 +1658,4 @@
 - 2026-05-13T09:20:50: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-05-13T15:52:09: test: verify analytics API response contract
 - 2026-05-13T09:01:02: fix: prevent state reset during tab switching
+- 2026-05-14T22:59:28: docs: add setup instructions to README
