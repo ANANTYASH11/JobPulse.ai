@@ -1662,3 +1662,4 @@
 - 2026-05-14T16:54:54: feat: add TimesJobs employer badge grid
 - 2026-05-14T13:32:50: docs: add setup instructions to README
 - 2026-05-14T13:01:33: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-05-15T22:14:37: docs: add setup instructions to README
