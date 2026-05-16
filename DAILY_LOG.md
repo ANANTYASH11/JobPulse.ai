@@ -1663,3 +1663,4 @@
 - 2026-05-14T13:32:50: docs: add setup instructions to README
 - 2026-05-14T13:01:33: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-05-15T22:14:37: docs: add setup instructions to README
+- 2026-05-16T10:55:40: style: refine dark mode contrast ratios and glowing borders
