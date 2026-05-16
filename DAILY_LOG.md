@@ -1665,3 +1665,4 @@
 - 2026-05-15T22:14:37: docs: add setup instructions to README
 - 2026-05-16T10:55:40: style: refine dark mode contrast ratios and glowing borders
 - 2026-05-16T19:31:02: refactor: extract reusable card components into UI library
+- 2026-05-16T11:57:20: perf: dynamic import for canvas whiteboard module
