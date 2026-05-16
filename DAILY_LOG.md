@@ -1671,3 +1671,4 @@
 - 2026-05-16T14:27:26: test: verify analytics API response contract
 - 2026-05-16T11:54:51: style: refine dark mode contrast ratios and glowing borders
 - 2026-05-16T22:27:38: style: refine dark mode contrast ratios and glowing borders
+- 2026-05-16T08:05:20: fix: adjust glassmorphic panel blur for mobile viewport
