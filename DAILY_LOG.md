@@ -1667,3 +1667,4 @@
 - 2026-05-16T19:31:02: refactor: extract reusable card components into UI library
 - 2026-05-16T11:57:20: perf: dynamic import for canvas whiteboard module
 - 2026-05-16T11:47:20: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-05-16T18:58:41: feat: add TimesJobs employer badge grid
