@@ -1676,3 +1676,4 @@
 - 2026-05-17T22:26:42: docs: update API documentation and route schemas
 - 2026-05-17T15:45:04: perf: reduce bundle size and optimize asset loading
 - 2026-05-17T13:18:33: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-05-17T17:59:04: refactor: optimize Framer Motion layout transitions
