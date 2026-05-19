@@ -1680,3 +1680,4 @@
 - 2026-05-17T11:28:12: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-05-17T22:10:04: perf: reduce bundle size and optimize asset loading
 - 2026-05-17T11:47:39: feat: update application status tracker pipeline
+- 2026-05-19T11:49:58: fix: adjust glassmorphic panel blur for mobile viewport
