@@ -1682,3 +1682,4 @@
 - 2026-05-17T11:47:39: feat: update application status tracker pipeline
 - 2026-05-19T11:49:58: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-05-20T17:32:52: perf: dynamic import for canvas whiteboard module
+- 2026-05-20T16:24:25: docs: add setup instructions to README
