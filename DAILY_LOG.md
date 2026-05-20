@@ -1683,3 +1683,4 @@
 - 2026-05-19T11:49:58: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-05-20T17:32:52: perf: dynamic import for canvas whiteboard module
 - 2026-05-20T16:24:25: docs: add setup instructions to README
+- 2026-05-20T13:42:53: docs: add setup instructions to README
