@@ -1684,3 +1684,4 @@
 - 2026-05-20T17:32:52: perf: dynamic import for canvas whiteboard module
 - 2026-05-20T16:24:25: docs: add setup instructions to README
 - 2026-05-20T13:42:53: docs: add setup instructions to README
+- 2026-05-20T21:41:32: docs: update API documentation and route schemas
