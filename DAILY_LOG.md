@@ -1687,3 +1687,4 @@
 - 2026-05-20T21:41:32: docs: update API documentation and route schemas
 - 2026-05-20T18:37:00: refactor: extract reusable card components into UI library
 - 2026-05-20T18:32:40: style: polish Playfair Display heading typography scales
+- 2026-05-20T10:40:55: perf: reduce bundle size and optimize asset loading
