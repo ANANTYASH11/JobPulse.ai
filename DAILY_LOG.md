@@ -1685,3 +1685,4 @@
 - 2026-05-20T16:24:25: docs: add setup instructions to README
 - 2026-05-20T13:42:53: docs: add setup instructions to README
 - 2026-05-20T21:41:32: docs: update API documentation and route schemas
+- 2026-05-20T18:37:00: refactor: extract reusable card components into UI library
