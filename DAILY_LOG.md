@@ -1693,3 +1693,4 @@
 - 2026-05-22T16:10:35: test: verify analytics API response contract
 - 2026-05-22T21:18:36: fix: mobile navigation drawer backdrop filter
 - 2026-05-22T14:10:53: chore: update dependencies and build scripts
+- 2026-05-23T22:31:56: refactor: optimize Framer Motion layout transitions
