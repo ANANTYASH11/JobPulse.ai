@@ -1694,3 +1694,4 @@
 - 2026-05-22T21:18:36: fix: mobile navigation drawer backdrop filter
 - 2026-05-22T14:10:53: chore: update dependencies and build scripts
 - 2026-05-23T22:31:56: refactor: optimize Framer Motion layout transitions
+- 2026-05-24T11:29:07: perf: dynamic import for canvas whiteboard module
