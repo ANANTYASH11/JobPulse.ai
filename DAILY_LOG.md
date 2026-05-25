@@ -1699,3 +1699,4 @@
 - 2026-05-24T15:41:10: chore: update dependencies and build scripts
 - 2026-05-24T09:58:30: chore: update dependencies and build scripts
 - 2026-05-24T20:30:26: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-05-25T18:24:02: fix: mobile navigation drawer backdrop filter
