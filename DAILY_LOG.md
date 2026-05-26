@@ -1704,3 +1704,4 @@
 - 2026-05-26T09:24:36: chore: update dependencies and build scripts
 - 2026-05-26T10:44:03: test: verify analytics API response contract
 - 2026-05-26T18:05:09: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-05-26T14:55:06: fix: prevent state reset during tab switching
