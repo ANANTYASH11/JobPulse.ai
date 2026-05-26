@@ -1710,3 +1710,4 @@
 - 2026-05-26T21:33:09: perf: dynamic import for canvas whiteboard module
 - 2026-05-26T10:33:47: refactor: extract reusable card components into UI library
 - 2026-05-26T08:06:51: fix: prevent state reset during tab switching
+- 2026-05-26T15:34:03: fix: prevent state reset during tab switching
