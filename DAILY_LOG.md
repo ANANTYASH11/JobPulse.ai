@@ -1720,3 +1720,4 @@
 - 2026-05-27T10:30:17: fix: prevent state reset during tab switching
 - 2026-05-27T08:31:48: test: verify analytics API response contract
 - 2026-05-28T19:58:15: fix: prevent state reset during tab switching
+- 2026-05-29T20:29:00: docs: add setup instructions to README
