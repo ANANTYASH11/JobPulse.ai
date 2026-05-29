@@ -1728,3 +1728,4 @@
 - 2026-05-29T10:26:58: refactor: extract reusable card components into UI library
 - 2026-05-29T18:06:23: feat: add TimesJobs employer badge grid
 - 2026-05-29T16:39:22: style: refine dark mode contrast ratios and glowing borders
+- 2026-05-29T21:29:27: refactor: optimize Framer Motion layout transitions
