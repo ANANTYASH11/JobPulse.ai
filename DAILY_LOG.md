@@ -1730,3 +1730,4 @@
 - 2026-05-29T16:39:22: style: refine dark mode contrast ratios and glowing borders
 - 2026-05-29T21:29:27: refactor: optimize Framer Motion layout transitions
 - 2026-05-29T22:10:43: style: refine dark mode contrast ratios and glowing borders
+- 2026-05-29T11:44:11: chore: update dependencies and build scripts
