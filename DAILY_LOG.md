@@ -1724,3 +1724,4 @@
 - 2026-05-29T21:33:28: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-05-29T14:01:28: test: verify analytics API response contract
 - 2026-05-29T14:47:38: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-05-29T12:18:59: fix: mobile navigation drawer backdrop filter
