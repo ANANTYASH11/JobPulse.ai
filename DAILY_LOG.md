@@ -1726,3 +1726,4 @@
 - 2026-05-29T14:47:38: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-05-29T12:18:59: fix: mobile navigation drawer backdrop filter
 - 2026-05-29T10:26:58: refactor: extract reusable card components into UI library
+- 2026-05-29T18:06:23: feat: add TimesJobs employer badge grid
