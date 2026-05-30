@@ -1732,3 +1732,4 @@
 - 2026-05-29T22:10:43: style: refine dark mode contrast ratios and glowing borders
 - 2026-05-29T11:44:11: chore: update dependencies and build scripts
 - 2026-05-29T09:00:36: docs: update API documentation and route schemas
+- 2026-05-30T14:22:58: feat: enhance ATS scoring algorithm for resume optimizer
