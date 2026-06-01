@@ -1734,3 +1734,4 @@
 - 2026-05-29T09:00:36: docs: update API documentation and route schemas
 - 2026-05-30T14:22:58: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-05-30T08:03:10: perf: dynamic import for canvas whiteboard module
+- 2026-06-01T12:57:54: perf: dynamic import for canvas whiteboard module
