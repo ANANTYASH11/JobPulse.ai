@@ -1735,3 +1735,4 @@
 - 2026-05-30T14:22:58: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-05-30T08:03:10: perf: dynamic import for canvas whiteboard module
 - 2026-06-01T12:57:54: perf: dynamic import for canvas whiteboard module
+- 2026-06-01T09:37:42: style: refine dark mode contrast ratios and glowing borders
