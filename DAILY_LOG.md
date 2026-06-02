@@ -1743,3 +1743,4 @@
 - 2026-06-02T08:35:46: fix: mobile navigation drawer backdrop filter
 - 2026-06-02T21:08:35: fix: mobile navigation drawer backdrop filter
 - 2026-06-02T19:24:58: test: verify analytics API response contract
+- 2026-06-02T12:37:53: style: polish Playfair Display heading typography scales
