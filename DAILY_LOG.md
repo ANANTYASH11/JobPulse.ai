@@ -1739,3 +1739,4 @@
 - 2026-06-01T21:00:18: fix: prevent state reset during tab switching
 - 2026-06-01T15:08:08: docs: update API documentation and route schemas
 - 2026-06-01T13:50:43: refactor: extract reusable card components into UI library
+- 2026-06-02T13:29:21: fix: prevent state reset during tab switching
