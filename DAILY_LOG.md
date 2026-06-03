@@ -1747,3 +1747,4 @@
 - 2026-06-03T13:07:49: style: polish Playfair Display heading typography scales
 - 2026-06-03T20:52:25: fix: mobile navigation drawer backdrop filter
 - 2026-06-03T12:41:36: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-06-03T12:00:31: fix: prevent state reset during tab switching
