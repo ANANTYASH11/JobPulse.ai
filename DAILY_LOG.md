@@ -1751,3 +1751,4 @@
 - 2026-06-03T18:04:35: chore: update dependencies and build scripts
 - 2026-06-03T09:35:12: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-06-04T22:50:08: chore: update dependencies and build scripts
+- 2026-06-04T14:45:05: docs: update API documentation and route schemas
