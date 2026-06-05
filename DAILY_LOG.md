@@ -1754,3 +1754,4 @@
 - 2026-06-04T14:45:05: docs: update API documentation and route schemas
 - 2026-06-04T18:58:00: refactor: extract reusable card components into UI library
 - 2026-06-04T21:35:38: test: verify analytics API response contract
+- 2026-06-05T14:01:17: docs: add setup instructions to README
