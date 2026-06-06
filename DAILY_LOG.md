@@ -1759,3 +1759,4 @@
 - 2026-06-06T20:48:17: docs: add setup instructions to README
 - 2026-06-06T14:20:38: feat: add interactive practice questions to interview arena
 - 2026-06-06T15:55:54: refactor: extract reusable card components into UI library
+- 2026-06-06T15:02:22: fix: adjust glassmorphic panel blur for mobile viewport
