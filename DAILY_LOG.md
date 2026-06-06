@@ -1756,3 +1756,4 @@
 - 2026-06-04T21:35:38: test: verify analytics API response contract
 - 2026-06-05T14:01:17: docs: add setup instructions to README
 - 2026-06-05T17:39:56: perf: dynamic import for canvas whiteboard module
+- 2026-06-06T20:48:17: docs: add setup instructions to README
