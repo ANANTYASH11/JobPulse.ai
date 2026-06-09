@@ -1768,3 +1768,4 @@
 - 2026-06-07T11:59:13: fix: prevent state reset during tab switching
 - 2026-06-08T10:01:29: feat: add TimesJobs employer badge grid
 - 2026-06-08T18:33:45: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-06-09T19:52:22: chore: update dependencies and build scripts
