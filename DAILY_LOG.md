@@ -1777,3 +1777,4 @@
 - 2026-06-10T17:18:58: refactor: optimize Framer Motion layout transitions
 - 2026-06-10T09:08:27: refactor: extract reusable card components into UI library
 - 2026-06-10T17:12:50: perf: dynamic import for canvas whiteboard module
+- 2026-06-10T11:07:26: style: refine dark mode contrast ratios and glowing borders
