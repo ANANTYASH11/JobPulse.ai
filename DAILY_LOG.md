@@ -1771,3 +1771,4 @@
 - 2026-06-09T19:52:22: chore: update dependencies and build scripts
 - 2026-06-10T09:00:38: style: polish Playfair Display heading typography scales
 - 2026-06-10T09:14:14: fix: mobile navigation drawer backdrop filter
+- 2026-06-10T22:16:32: refactor: extract reusable card components into UI library
