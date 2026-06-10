@@ -1780,3 +1780,4 @@
 - 2026-06-10T11:07:26: style: refine dark mode contrast ratios and glowing borders
 - 2026-06-10T17:11:17: perf: dynamic import for canvas whiteboard module
 - 2026-06-10T18:27:28: fix: prevent state reset during tab switching
+- 2026-06-10T10:17:25: docs: update API documentation and route schemas
