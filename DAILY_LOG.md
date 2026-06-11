@@ -1781,3 +1781,4 @@
 - 2026-06-10T17:11:17: perf: dynamic import for canvas whiteboard module
 - 2026-06-10T18:27:28: fix: prevent state reset during tab switching
 - 2026-06-10T10:17:25: docs: update API documentation and route schemas
+- 2026-06-11T09:45:41: fix: mobile navigation drawer backdrop filter
