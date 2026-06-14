@@ -1789,3 +1789,4 @@
 - 2026-06-12T17:54:41: style: polish Playfair Display heading typography scales
 - 2026-06-13T18:52:43: docs: update API documentation and route schemas
 - 2026-06-13T09:36:44: refactor: optimize Framer Motion layout transitions
+- 2026-06-14T19:20:52: fix: prevent state reset during tab switching
