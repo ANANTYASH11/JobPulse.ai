@@ -1795,3 +1795,4 @@
 - 2026-06-15T19:25:29: perf: reduce bundle size and optimize asset loading
 - 2026-06-15T14:00:27: style: refine dark mode contrast ratios and glowing borders
 - 2026-06-15T10:25:50: docs: update API documentation and route schemas
+- 2026-06-15T22:26:06: fix: adjust glassmorphic panel blur for mobile viewport
