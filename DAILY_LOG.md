@@ -1802,3 +1802,4 @@
 - 2026-06-17T11:59:54: perf: dynamic import for canvas whiteboard module
 - 2026-06-17T12:57:11: feat: add TimesJobs employer badge grid
 - 2026-06-17T16:35:36: feat: add TimesJobs employer badge grid
+- 2026-06-17T15:47:50: fix: mobile navigation drawer backdrop filter
