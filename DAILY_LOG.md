@@ -1799,3 +1799,4 @@
 - 2026-06-17T17:40:51: refactor: extract reusable card components into UI library
 - 2026-06-17T14:22:31: feat: add TimesJobs employer badge grid
 - 2026-06-17T22:05:55: fix: prevent state reset during tab switching
+- 2026-06-17T11:59:54: perf: dynamic import for canvas whiteboard module
