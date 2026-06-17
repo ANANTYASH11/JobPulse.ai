@@ -1797,3 +1797,4 @@
 - 2026-06-15T10:25:50: docs: update API documentation and route schemas
 - 2026-06-15T22:26:06: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-06-17T17:40:51: refactor: extract reusable card components into UI library
+- 2026-06-17T14:22:31: feat: add TimesJobs employer badge grid
