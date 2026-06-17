@@ -1800,3 +1800,4 @@
 - 2026-06-17T14:22:31: feat: add TimesJobs employer badge grid
 - 2026-06-17T22:05:55: fix: prevent state reset during tab switching
 - 2026-06-17T11:59:54: perf: dynamic import for canvas whiteboard module
+- 2026-06-17T12:57:11: feat: add TimesJobs employer badge grid
