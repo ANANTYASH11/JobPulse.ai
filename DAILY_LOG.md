@@ -1803,3 +1803,4 @@
 - 2026-06-17T12:57:11: feat: add TimesJobs employer badge grid
 - 2026-06-17T16:35:36: feat: add TimesJobs employer badge grid
 - 2026-06-17T15:47:50: fix: mobile navigation drawer backdrop filter
+- 2026-06-18T16:03:35: perf: dynamic import for canvas whiteboard module
