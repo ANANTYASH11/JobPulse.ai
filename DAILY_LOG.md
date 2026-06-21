@@ -1805,3 +1805,4 @@
 - 2026-06-17T15:47:50: fix: mobile navigation drawer backdrop filter
 - 2026-06-18T16:03:35: perf: dynamic import for canvas whiteboard module
 - 2026-06-19T19:44:21: style: polish Playfair Display heading typography scales
+- 2026-06-21T09:52:04: perf: reduce bundle size and optimize asset loading
