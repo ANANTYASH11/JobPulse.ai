@@ -1809,3 +1809,4 @@
 - 2026-06-21T14:32:45: perf: dynamic import for canvas whiteboard module
 - 2026-06-21T10:58:13: fix: mobile navigation drawer backdrop filter
 - 2026-06-21T17:44:37: style: refine dark mode contrast ratios and glowing borders
+- 2026-06-21T14:23:02: docs: update API documentation and route schemas
