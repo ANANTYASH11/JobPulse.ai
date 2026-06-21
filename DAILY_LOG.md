@@ -1811,3 +1811,4 @@
 - 2026-06-21T17:44:37: style: refine dark mode contrast ratios and glowing borders
 - 2026-06-21T14:23:02: docs: update API documentation and route schemas
 - 2026-06-21T16:31:32: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-06-21T10:41:53: fix: mobile navigation drawer backdrop filter
