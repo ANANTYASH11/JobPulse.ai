@@ -1808,3 +1808,4 @@
 - 2026-06-21T09:52:04: perf: reduce bundle size and optimize asset loading
 - 2026-06-21T14:32:45: perf: dynamic import for canvas whiteboard module
 - 2026-06-21T10:58:13: fix: mobile navigation drawer backdrop filter
+- 2026-06-21T17:44:37: style: refine dark mode contrast ratios and glowing borders
