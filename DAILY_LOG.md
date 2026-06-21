@@ -1813,3 +1813,4 @@
 - 2026-06-21T16:31:32: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-06-21T10:41:53: fix: mobile navigation drawer backdrop filter
 - 2026-06-21T14:00:26: fix: mobile navigation drawer backdrop filter
+- 2026-06-21T22:51:14: style: polish Playfair Display heading typography scales
