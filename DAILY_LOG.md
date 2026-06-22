@@ -1815,3 +1815,4 @@
 - 2026-06-21T14:00:26: fix: mobile navigation drawer backdrop filter
 - 2026-06-21T22:51:14: style: polish Playfair Display heading typography scales
 - 2026-06-22T16:16:55: feat: update application status tracker pipeline
+- 2026-06-22T18:30:50: fix: adjust glassmorphic panel blur for mobile viewport
