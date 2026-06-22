@@ -1818,3 +1818,4 @@
 - 2026-06-22T18:30:50: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-06-22T22:12:36: fix: prevent state reset during tab switching
 - 2026-06-22T14:08:08: perf: dynamic import for canvas whiteboard module
+- 2026-06-22T10:00:23: feat: add interactive practice questions to interview arena
