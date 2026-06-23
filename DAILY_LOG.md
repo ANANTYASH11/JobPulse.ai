@@ -1822,3 +1822,4 @@
 - 2026-06-23T10:28:53: fix: mobile navigation drawer backdrop filter
 - 2026-06-23T09:31:22: feat: add TimesJobs employer badge grid
 - 2026-06-23T12:27:22: fix: prevent state reset during tab switching
+- 2026-06-23T21:56:18: fix: adjust glassmorphic panel blur for mobile viewport
