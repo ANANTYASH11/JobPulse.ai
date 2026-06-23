@@ -1821,3 +1821,4 @@
 - 2026-06-22T10:00:23: feat: add interactive practice questions to interview arena
 - 2026-06-23T10:28:53: fix: mobile navigation drawer backdrop filter
 - 2026-06-23T09:31:22: feat: add TimesJobs employer badge grid
+- 2026-06-23T12:27:22: fix: prevent state reset during tab switching
