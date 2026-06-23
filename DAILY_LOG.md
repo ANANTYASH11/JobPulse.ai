@@ -1828,3 +1828,4 @@
 - 2026-06-23T17:37:05: refactor: extract reusable card components into UI library
 - 2026-06-23T18:07:09: perf: dynamic import for canvas whiteboard module
 - 2026-06-23T14:32:16: docs: add setup instructions to README
+- 2026-06-23T13:39:30: feat: add TimesJobs employer badge grid
