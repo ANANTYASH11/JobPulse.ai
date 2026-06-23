@@ -1819,3 +1819,4 @@
 - 2026-06-22T22:12:36: fix: prevent state reset during tab switching
 - 2026-06-22T14:08:08: perf: dynamic import for canvas whiteboard module
 - 2026-06-22T10:00:23: feat: add interactive practice questions to interview arena
+- 2026-06-23T10:28:53: fix: mobile navigation drawer backdrop filter
