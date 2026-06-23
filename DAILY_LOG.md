@@ -1820,3 +1820,4 @@
 - 2026-06-22T14:08:08: perf: dynamic import for canvas whiteboard module
 - 2026-06-22T10:00:23: feat: add interactive practice questions to interview arena
 - 2026-06-23T10:28:53: fix: mobile navigation drawer backdrop filter
+- 2026-06-23T09:31:22: feat: add TimesJobs employer badge grid
