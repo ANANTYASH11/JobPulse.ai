@@ -1830,3 +1830,4 @@
 - 2026-06-23T14:32:16: docs: add setup instructions to README
 - 2026-06-23T13:39:30: feat: add TimesJobs employer badge grid
 - 2026-06-24T16:36:54: refactor: extract reusable card components into UI library
+- 2026-06-24T09:53:10: refactor: optimize Framer Motion layout transitions
