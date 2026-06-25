@@ -1835,3 +1835,4 @@
 - 2026-06-24T22:28:30: chore: update dependencies and build scripts
 - 2026-06-25T09:25:29: perf: dynamic import for canvas whiteboard module
 - 2026-06-25T19:37:23: fix: adjust glassmorphic panel blur for mobile viewport
+- 2026-06-25T10:33:38: feat: enhance ATS scoring algorithm for resume optimizer
