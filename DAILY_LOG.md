@@ -1834,3 +1834,4 @@
 - 2026-06-24T15:59:08: docs: add setup instructions to README
 - 2026-06-24T22:28:30: chore: update dependencies and build scripts
 - 2026-06-25T09:25:29: perf: dynamic import for canvas whiteboard module
+- 2026-06-25T19:37:23: fix: adjust glassmorphic panel blur for mobile viewport
