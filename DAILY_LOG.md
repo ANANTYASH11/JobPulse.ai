@@ -1837,3 +1837,4 @@
 - 2026-06-25T19:37:23: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-06-25T10:33:38: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-06-25T16:54:21: chore: update dependencies and build scripts
+- 2026-06-25T11:28:44: docs: add setup instructions to README
