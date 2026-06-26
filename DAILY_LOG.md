@@ -1847,3 +1847,4 @@
 - 2026-06-26T11:22:08: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-06-26T15:04:25: refactor: optimize Framer Motion layout transitions
 - 2026-06-26T10:40:47: style: refine dark mode contrast ratios and glowing borders
+- 2026-06-26T13:40:00: fix: mobile navigation drawer backdrop filter
