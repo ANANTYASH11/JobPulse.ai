@@ -1838,3 +1838,4 @@
 - 2026-06-25T10:33:38: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-06-25T16:54:21: chore: update dependencies and build scripts
 - 2026-06-25T11:28:44: docs: add setup instructions to README
+- 2026-06-26T18:45:20: perf: dynamic import for canvas whiteboard module
