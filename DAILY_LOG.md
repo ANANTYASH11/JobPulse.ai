@@ -1841,3 +1841,4 @@
 - 2026-06-26T18:45:20: perf: dynamic import for canvas whiteboard module
 - 2026-06-26T10:47:56: refactor: extract reusable card components into UI library
 - 2026-06-26T10:28:54: chore: update dependencies and build scripts
+- 2026-06-26T20:03:59: docs: update API documentation and route schemas
