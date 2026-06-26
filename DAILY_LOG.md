@@ -1843,3 +1843,4 @@
 - 2026-06-26T10:28:54: chore: update dependencies and build scripts
 - 2026-06-26T20:03:59: docs: update API documentation and route schemas
 - 2026-06-26T14:53:24: feat: add TimesJobs employer badge grid
+- 2026-06-26T16:54:30: perf: reduce bundle size and optimize asset loading
