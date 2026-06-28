@@ -1865,3 +1865,4 @@
 - 2026-06-28T10:10:47: test: verify analytics API response contract
 - 2026-06-28T19:45:40: docs: add setup instructions to README
 - 2026-06-28T15:02:40: feat: add TimesJobs employer badge grid
+- 2026-06-28T17:39:02: fix: mobile navigation drawer backdrop filter
