@@ -1866,3 +1866,4 @@
 - 2026-06-28T19:45:40: docs: add setup instructions to README
 - 2026-06-28T15:02:40: feat: add TimesJobs employer badge grid
 - 2026-06-28T17:39:02: fix: mobile navigation drawer backdrop filter
+- 2026-06-28T18:02:54: feat: add TimesJobs employer badge grid
