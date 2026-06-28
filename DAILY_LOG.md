@@ -1869,3 +1869,4 @@
 - 2026-06-28T18:02:54: feat: add TimesJobs employer badge grid
 - 2026-06-28T22:49:08: feat: update application status tracker pipeline
 - 2026-06-28T11:16:04: refactor: extract reusable card components into UI library
+- 2026-06-28T12:13:36: fix: adjust glassmorphic panel blur for mobile viewport
