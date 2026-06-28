@@ -1863,3 +1863,4 @@
 - 2026-06-28T16:34:31: perf: dynamic import for canvas whiteboard module
 - 2026-06-28T13:27:28: feat: add interactive practice questions to interview arena
 - 2026-06-28T10:10:47: test: verify analytics API response contract
+- 2026-06-28T19:45:40: docs: add setup instructions to README
