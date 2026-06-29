@@ -1877,3 +1877,4 @@
 - 2026-06-29T14:32:29: style: polish Playfair Display heading typography scales
 - 2026-06-29T13:50:02: docs: update API documentation and route schemas
 - 2026-06-29T11:44:46: feat: add TimesJobs employer badge grid
+- 2026-06-29T09:09:39: feat: add interactive practice questions to interview arena
