@@ -1871,3 +1871,4 @@
 - 2026-06-28T11:16:04: refactor: extract reusable card components into UI library
 - 2026-06-28T12:13:36: fix: adjust glassmorphic panel blur for mobile viewport
 - 2026-06-28T16:24:23: perf: reduce bundle size and optimize asset loading
+- 2026-06-29T09:01:21: fix: prevent state reset during tab switching
