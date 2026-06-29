@@ -1875,3 +1875,4 @@
 - 2026-06-29T08:04:04: fix: prevent state reset during tab switching
 - 2026-06-29T08:49:26: perf: dynamic import for canvas whiteboard module
 - 2026-06-29T14:32:29: style: polish Playfair Display heading typography scales
+- 2026-06-29T13:50:02: docs: update API documentation and route schemas
