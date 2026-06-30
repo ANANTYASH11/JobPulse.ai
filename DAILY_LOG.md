@@ -1880,3 +1880,4 @@
 - 2026-06-29T09:09:39: feat: add interactive practice questions to interview arena
 - 2026-06-30T09:06:56: style: polish Playfair Display heading typography scales
 - 2026-06-30T13:14:58: chore: update dependencies and build scripts
+- 2026-06-30T19:05:59: docs: update API documentation and route schemas
