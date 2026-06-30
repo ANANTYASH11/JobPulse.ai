@@ -1882,3 +1882,4 @@
 - 2026-06-30T13:14:58: chore: update dependencies and build scripts
 - 2026-06-30T19:05:59: docs: update API documentation and route schemas
 - 2026-06-30T21:46:54: feat: add interactive practice questions to interview arena
+- 2026-06-30T16:34:15: docs: add setup instructions to README
