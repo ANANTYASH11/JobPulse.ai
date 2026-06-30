@@ -1884,3 +1884,4 @@
 - 2026-06-30T21:46:54: feat: add interactive practice questions to interview arena
 - 2026-06-30T16:34:15: docs: add setup instructions to README
 - 2026-06-30T14:58:44: perf: reduce bundle size and optimize asset loading
+- 2026-06-30T22:51:26: fix: mobile navigation drawer backdrop filter
