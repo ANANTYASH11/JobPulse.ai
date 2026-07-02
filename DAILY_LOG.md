@@ -1896,3 +1896,4 @@
 - 2026-07-01T09:02:33: refactor: extract reusable card components into UI library
 - 2026-07-01T09:09:59: test: verify analytics API response contract
 - 2026-07-01T19:48:12: style: refine dark mode contrast ratios and glowing borders
+- 2026-07-02T13:43:46: fix: prevent state reset during tab switching
