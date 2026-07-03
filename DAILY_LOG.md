@@ -1902,3 +1902,4 @@
 - 2026-07-03T08:19:24: refactor: optimize Framer Motion layout transitions
 - 2026-07-03T19:05:59: docs: add setup instructions to README
 - 2026-07-03T08:36:58: feat: add interactive practice questions to interview arena
+- 2026-07-03T16:12:48: fix: mobile navigation drawer backdrop filter
