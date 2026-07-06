@@ -1917,3 +1917,4 @@
 - 2026-07-06T08:41:33: style: refine dark mode contrast ratios and glowing borders
 - 2026-07-06T09:00:05: style: polish Playfair Display heading typography scales
 - 2026-07-06T21:55:19: refactor: optimize Framer Motion layout transitions
+- 2026-07-06T18:26:42: chore: update dependencies and build scripts
