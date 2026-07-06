@@ -1922,3 +1922,4 @@
 - 2026-07-06T22:46:59: style: polish Playfair Display heading typography scales
 - 2026-07-06T20:50:57: test: verify analytics API response contract
 - 2026-07-06T20:23:49: style: refine dark mode contrast ratios and glowing borders
+- 2026-07-06T16:47:16: docs: add setup instructions to README
