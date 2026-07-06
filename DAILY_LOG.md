@@ -1915,3 +1915,4 @@
 - 2026-07-06T12:19:15: docs: update API documentation and route schemas
 - 2026-07-06T17:52:34: perf: reduce bundle size and optimize asset loading
 - 2026-07-06T08:41:33: style: refine dark mode contrast ratios and glowing borders
+- 2026-07-06T09:00:05: style: polish Playfair Display heading typography scales
