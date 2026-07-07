@@ -1929,3 +1929,4 @@
 - 2026-07-07T20:08:23: chore: update dependencies and build scripts
 - 2026-07-07T12:15:24: style: polish Playfair Display heading typography scales
 - 2026-07-07T18:18:54: feat: add TimesJobs employer badge grid
+- 2026-07-07T09:10:05: fix: prevent state reset during tab switching
