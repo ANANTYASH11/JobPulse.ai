@@ -1935,3 +1935,4 @@
 - 2026-07-10T13:28:57: test: verify analytics API response contract
 - 2026-07-10T17:01:07: docs: add setup instructions to README
 - 2026-07-10T15:00:08: fix: mobile navigation drawer backdrop filter
+- 2026-07-10T21:08:38: style: polish Playfair Display heading typography scales
