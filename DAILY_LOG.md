@@ -1936,3 +1936,4 @@
 - 2026-07-10T17:01:07: docs: add setup instructions to README
 - 2026-07-10T15:00:08: fix: mobile navigation drawer backdrop filter
 - 2026-07-10T21:08:38: style: polish Playfair Display heading typography scales
+- 2026-07-11T18:53:02: style: polish Playfair Display heading typography scales
