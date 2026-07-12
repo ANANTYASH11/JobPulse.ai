@@ -1938,3 +1938,4 @@
 - 2026-07-10T21:08:38: style: polish Playfair Display heading typography scales
 - 2026-07-11T18:53:02: style: polish Playfair Display heading typography scales
 - 2026-07-12T10:41:51: feat: add TimesJobs employer badge grid
+- 2026-07-12T16:00:05: feat: enhance ATS scoring algorithm for resume optimizer
