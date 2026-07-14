@@ -1948,3 +1948,4 @@
 - 2026-07-14T19:52:35: fix: mobile navigation drawer backdrop filter
 - 2026-07-14T12:01:31: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-07-14T22:44:02: style: refine dark mode contrast ratios and glowing borders
+- 2026-07-14T12:17:33: docs: add setup instructions to README
