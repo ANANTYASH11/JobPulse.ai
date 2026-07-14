@@ -1942,3 +1942,4 @@
 - 2026-07-14T14:38:29: feat: update application status tracker pipeline
 - 2026-07-14T08:14:24: fix: mobile navigation drawer backdrop filter
 - 2026-07-14T10:35:26: feat: update application status tracker pipeline
+- 2026-07-14T16:04:41: docs: update API documentation and route schemas
