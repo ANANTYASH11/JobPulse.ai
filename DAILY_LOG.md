@@ -1946,3 +1946,4 @@
 - 2026-07-14T22:41:09: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-07-14T10:19:41: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-07-14T19:52:35: fix: mobile navigation drawer backdrop filter
+- 2026-07-14T12:01:31: feat: enhance ATS scoring algorithm for resume optimizer
