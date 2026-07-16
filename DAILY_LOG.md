@@ -1958,3 +1958,4 @@
 - 2026-07-16T10:03:59: feat: update application status tracker pipeline
 - 2026-07-16T12:57:06: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-07-16T14:29:23: feat: add interactive practice questions to interview arena
+- 2026-07-16T17:13:02: fix: prevent state reset during tab switching
