@@ -1954,3 +1954,4 @@
 - 2026-07-15T14:27:28: fix: prevent state reset during tab switching
 - 2026-07-15T11:36:26: refactor: optimize Framer Motion layout transitions
 - 2026-07-16T11:47:54: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-07-16T21:50:01: docs: add setup instructions to README
