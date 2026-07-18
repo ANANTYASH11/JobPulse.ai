@@ -1965,3 +1965,4 @@
 - 2026-07-18T20:48:21: docs: add setup instructions to README
 - 2026-07-18T19:11:35: feat: enhance ATS scoring algorithm for resume optimizer
 - 2026-07-18T18:36:31: perf: reduce bundle size and optimize asset loading
+- 2026-07-18T12:26:03: chore: update dependencies and build scripts
