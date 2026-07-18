@@ -1963,3 +1963,4 @@
 - 2026-07-17T21:47:01: feat: update application status tracker pipeline
 - 2026-07-18T12:13:22: perf: dynamic import for canvas whiteboard module
 - 2026-07-18T20:48:21: docs: add setup instructions to README
+- 2026-07-18T19:11:35: feat: enhance ATS scoring algorithm for resume optimizer
