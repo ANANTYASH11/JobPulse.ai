@@ -1968,3 +1968,4 @@
 - 2026-07-18T12:26:03: chore: update dependencies and build scripts
 - 2026-07-18T21:42:01: fix: mobile navigation drawer backdrop filter
 - 2026-07-19T11:22:14: feat: enhance ATS scoring algorithm for resume optimizer
+- 2026-07-20T10:51:04: feat: add interactive practice questions to interview arena
