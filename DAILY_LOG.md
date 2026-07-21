@@ -1971,3 +1971,4 @@
 - 2026-07-20T10:51:04: feat: add interactive practice questions to interview arena
 - 2026-07-20T13:19:18: perf: reduce bundle size and optimize asset loading
 - 2026-07-21T09:34:56: test: verify analytics API response contract
+- 2026-07-21T20:35:31: fix: mobile navigation drawer backdrop filter
