@@ -1974,3 +1974,4 @@
 - 2026-07-21T20:35:31: fix: mobile navigation drawer backdrop filter
 - 2026-07-22T15:13:18: feat: update application status tracker pipeline
 - 2026-07-22T12:49:30: refactor: extract reusable card components into UI library
+- 2026-07-22T12:38:31: docs: add setup instructions to README
