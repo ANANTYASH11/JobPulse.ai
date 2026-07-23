@@ -1977,3 +1977,4 @@
 - 2026-07-22T12:38:31: docs: add setup instructions to README
 - 2026-07-22T13:33:51: style: refine dark mode contrast ratios and glowing borders
 - 2026-07-22T19:36:37: perf: dynamic import for canvas whiteboard module
+- 2026-07-23T14:22:05: perf: dynamic import for canvas whiteboard module
