@@ -1979,3 +1979,4 @@
 - 2026-07-22T19:36:37: perf: dynamic import for canvas whiteboard module
 - 2026-07-23T14:22:05: perf: dynamic import for canvas whiteboard module
 - 2026-07-24T12:56:38: refactor: optimize Framer Motion layout transitions
+- 2026-07-24T10:39:52: docs: add setup instructions to README
