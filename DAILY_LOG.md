@@ -1983,3 +1983,4 @@
 - 2026-07-24T11:03:21: refactor: extract reusable card components into UI library
 - 2026-07-24T12:50:45: docs: update API documentation and route schemas
 - 2026-07-24T22:00:04: test: verify analytics API response contract
+- 2026-07-25T15:05:25: fix: prevent state reset during tab switching
